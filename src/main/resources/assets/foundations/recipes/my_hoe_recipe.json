@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "boo",
+    "  i",
+    " i "
+    
+  ],
+  "key": {
+     "i": {
+        "item": "foundations:my_rod"
+     },
+     
+     "o": {
+        "item": "foundations:my_ingot2"
+     },
+     
+     "b": {
+        "item": "foundations:my_ingot"
+     }
+ },
+ 
+  "result": {
+    "item": "foundations:my_hoe"
+    
+  }
+}

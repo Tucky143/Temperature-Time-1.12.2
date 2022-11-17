@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ii",
+    " si",
+    " s "
+    
+  ],
+  "key": {
+     "i": {
+        "item": "minecraft:obsidian"
+     },
+     "s": {
+        "item": "foundations:my_rod"
+     }
+    
+  },
+  "result": {
+    "item": "foundations:my_axe2"
+    
+  }
+}

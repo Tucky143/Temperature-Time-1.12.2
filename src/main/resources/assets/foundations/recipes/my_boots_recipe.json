@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "s s",
+    "s s"
+  ],
+  "key": {
+    "s": {
+    "item": "foundations:my_Ingot"
+    }
+  },
+  "result": {
+    "item": "foundations:my_Boots"
+  }
+}

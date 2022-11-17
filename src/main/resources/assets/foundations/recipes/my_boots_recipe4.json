@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p p",
+    "s s",
+    "sbs"
+  ],
+  "key": {
+    "s": {
+    "item": "minecraft:diamond"
+    },
+     "b": {
+    "item": "minecraft:diamond_boots"
+    },
+     "p": {
+    "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "foundations:my_Boots4"
+  }
+}

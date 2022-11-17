@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    " s ",
+    " s "
+    
+  ],
+  "key": {
+     "i": {
+        "item": "foundations:my_ingot"
+     },
+     "s": {
+        "item": "minecraft:blaze_rod"
+     }
+    
+  },
+  "result": {
+    "item": "foundations:my_shovel"
+    
+  }
+}
