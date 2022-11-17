@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "tt ",
+    " b "
+    
+  ],
+  "key": {
+     "b":{
+     "item":"foundations:my_rod"
+    },
+     "t":{
+        "item":"minecraft:tnt"
+    }
+  },
+  "result": {
+      "item":"foundations:cow_gun",
+    "count": 1
+  }
+}

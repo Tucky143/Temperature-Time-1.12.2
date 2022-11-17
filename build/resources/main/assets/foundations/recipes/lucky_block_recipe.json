@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "gig",
+    "aaa"
+    
+  ],
+  "key": {
+     "i": {
+        "item": "minecraft:iron_ingot"
+     },
+     "a": {
+        "item": "minecraft:apple"
+     },
+     "g": {
+        "item": "minecraft:gold_ingot"
+     }
+    },
+ 
+  "result": {
+    "item": "foundations:lucky_block"
+    
+  }
+}

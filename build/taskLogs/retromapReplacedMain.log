@@ -1,0 +1,2259 @@
+Processing 73 files
+Start Processing: mymod/CodakidFiles/BossModelBiped.java
+FOUND CONSTR method mymod/CodakidFiles/BossModelBiped/BossModelBiped ()V mymod/CodakidFiles/BossModelBiped
+Rename field net/minecraft/client/model/ModelBase/textureWidth[457,469]::textureWidth->field_78090_t
+Rename field net/minecraft/client/model/ModelBase/textureHeight[482,495]::textureHeight->field_78089_u
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[562,568]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[611,627]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[648,662]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[682,688]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[797,803]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[846,862]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[883,897]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[917,923]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1041,1047]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1095,1111]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1137,1151]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1175,1181]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1301,1307]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1354,1370]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1394,1408]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1431,1437]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1557,1563]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1610,1626]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1653,1667]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1691,1697]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1817,1823]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1869,1885]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1910,1924]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1947,1953]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[2030,2036]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[2131,2137]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[2180,2197]::setRotationAngles->func_78087_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2234,2240]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2261,2267]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2292,2298]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2322,2328]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2353,2359]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2383,2389]::render->func_78785_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2497,2509]::rotateAngleX->field_78795_f
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleY[2526,2538]::rotateAngleY->field_78796_g
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleZ[2555,2567]::rotateAngleZ->field_78808_h
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[2595,2612]::setRotationAngles->func_78087_a
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[2696,2713]::setRotationAngles->func_78087_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2763,2775]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[2790,2793]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2846,2858]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[2873,2876]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2933,2945]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[2960,2963]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[3016,3028]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[3043,3046]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleY[3105,3117]::rotateAngleY->field_78796_g
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[3165,3177]::rotateAngleX->field_78795_f
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.model.ModelRenderer
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.util.math.MathHelper
+End  Processing: mymod/CodakidFiles/BossModelBiped.java
+
+Start Processing: mymod/CodakidFiles/BossModelPig.java
+FOUND CONSTR method mymod/CodakidFiles/BossModelPig/BossModelPig ()V mymod/CodakidFiles/BossModelPig
+Rename field net/minecraft/client/model/ModelBase/textureWidth[439,451]::textureWidth->field_78090_t
+Rename field net/minecraft/client/model/ModelBase/textureHeight[464,477]::textureHeight->field_78089_u
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[544,550]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[593,609]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[632,646]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[666,672]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[781,787]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[833,849]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[871,885]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[905,911]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1028,1034]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1076,1092]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1115,1129]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1149,1155]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1265,1271]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1313,1329]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1351,1365]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1385,1391]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1500,1506]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1548,1564]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1588,1602]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1622,1628]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1737,1743]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1785,1801]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1824,1838]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1858,1864]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[1938,1944]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[2039,2045]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[2088,2105]::setRotationAngles->func_78087_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2143,2149]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2170,2176]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2197,2203]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2224,2230]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2251,2257]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2278,2284]::render->func_78785_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2392,2404]::rotateAngleX->field_78795_f
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleY[2421,2433]::rotateAngleY->field_78796_g
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleZ[2450,2462]::rotateAngleZ->field_78808_h
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[2490,2507]::setRotationAngles->func_78087_a
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[2591,2608]::setRotationAngles->func_78087_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2655,2667]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[2682,2685]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2739,2751]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[2766,2769]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2818,2830]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[2845,2848]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[2897,2909]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[2924,2927]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleY[2986,2998]::rotateAngleY->field_78796_g
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[3046,3058]::rotateAngleX->field_78795_f
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.model.ModelRenderer
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.util.math.MathHelper
+End  Processing: mymod/CodakidFiles/BossModelPig.java
+
+Start Processing: mymod/CodakidFiles/BossModelWolf.java
+FOUND CONSTR method mymod/CodakidFiles/BossModelWolf/BossModelWolf ()V mymod/CodakidFiles/BossModelWolf
+Rename field net/minecraft/client/model/ModelBase/textureWidth[561,573]::textureWidth->field_78090_t
+Rename field net/minecraft/client/model/ModelBase/textureHeight[586,599]::textureHeight->field_78089_u
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[666,672]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[715,731]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[757,771]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[791,797]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[906,912]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[955,971]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[993,1007]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1027,1033]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1149,1155]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1198,1214]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1238,1252]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1272,1278]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1395,1401]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1443,1459]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1484,1498]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1518,1524]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1634,1640]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1682,1698]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1722,1736]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1756,1762]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[1871,1877]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1919,1935]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[1961,1975]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[1995,2001]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[2110,2116]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2158,2174]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[2199,2213]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[2233,2239]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[2349,2355]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2397,2413]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[2436,2450]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[2470,2476]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[2591,2597]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2639,2655]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[2681,2695]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[2715,2721]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[2830,2836]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2877,2893]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[2919,2933]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[2953,2959]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIII)Lnet/minecraft/client/model/ModelRenderer;[3068,3074]::addBox->func_78789_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[3116,3132]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/setTextureSize (II)Lnet/minecraft/client/model/ModelRenderer;[3160,3174]::setTextureSize->func_78787_b
+Rename field net/minecraft/client/model/ModelRenderer/mirror[3194,3200]::mirror->field_78809_i
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[3274,3280]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[3375,3381]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[3424,3441]::setRotationAngles->func_78087_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3478,3484]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3505,3511]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3532,3538]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3559,3565]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3586,3592]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3613,3619]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3640,3646]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3667,3673]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3694,3700]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3721,3727]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3748,3754]::render->func_78785_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[3862,3874]::rotateAngleX->field_78795_f
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleY[3891,3903]::rotateAngleY->field_78796_g
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleZ[3920,3932]::rotateAngleZ->field_78808_h
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[3960,3977]::setRotationAngles->func_78087_a
+Rename method net/minecraft/client/model/ModelBase/setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;)V[4061,4078]::setRotationAngles->func_78087_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[4125,4137]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[4152,4155]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[4209,4221]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[4236,4239]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[4288,4300]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[4315,4318]::cos->func_76134_b
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[4367,4379]::rotateAngleX->field_78795_f
+Rename method net/minecraft/util/math/MathHelper/cos (F)F[4394,4397]::cos->func_76134_b
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.model.ModelRenderer
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.util.math.MathHelper
+End  Processing: mymod/CodakidFiles/BossModelWolf.java
+
+Start Processing: mymod/CodakidFiles/CKWorldGenerater.java
+FOUND CONSTR method mymod/CodakidFiles/CKWorldGenerater/CKWorldGenerater (Lnet/minecraft/block/state/IBlockState;I)V mymod/CodakidFiles/CKWorldGenerater
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[554,562]::generate->func_180709_b
+Rename method net/minecraft/util/math/BlockPos/add (III)Lnet/minecraft/util/math/BlockPos;[813,816]::add->func_177982_a
+Rename method net/minecraft/world/IBlockAccess/getBlockState (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;[974,987]::getBlockState->func_180495_p
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[1022,1030]::getBlock->func_177230_c
+Rename method net/minecraft/block/state/pattern/BlockMatcher/forBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/block/state/pattern/BlockMatcher;[1131,1139]::forBlock->func_177642_a
+Rename field net/minecraft/init/Blocks/STONE[1152,1157]::STONE->field_150348_b
+Rename method net/minecraft/world/World/setBlockState (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z[1210,1223]::setBlockState->func_180501_a
+Import: java.util.Random
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+Import: net.minecraft.world.gen.feature.WorldGenerator
+End  Processing: mymod/CodakidFiles/CKWorldGenerater.java
+
+Start Processing: mymod/CodakidFiles/ClientProxy.java
+New Key: class net/minecraftforge/fml/common/Mod
+Import: mymod.CommonProxy
+Import: mymod.Main
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraftforge.fml.client.registry.RenderingRegistry
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.relauncher.Side
+End  Processing: mymod/CodakidFiles/ClientProxy.java
+
+Start Processing: mymod/CodakidFiles/Codakid.java
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[3031,3049]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[3468,3486]::setUnlocalizedName->func_77655_b
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[5969,5985]::getItemFromBlock->func_150898_a
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[6664,6679]::addPotionEffect->func_70690_d
+Rename method net/minecraft/entity/EntityLivingBase/getEntityAttribute (Lnet/minecraft/entity/ai/attributes/IAttribute;)Lnet/minecraft/entity/ai/attributes/IAttributeInstance;[6902,6920]::getEntityAttribute->func_110148_a
+Rename field net/minecraft/entity/SharedMonsterAttributes/MOVEMENT_SPEED[6940,6954]::MOVEMENT_SPEED->field_111263_d
+Rename method net/minecraft/entity/ai/attributes/IAttributeInstance/setBaseValue (D)V[6956,6968]::setBaseValue->func_111128_a
+Rename method net/minecraft/entity/EntityLivingBase/getEntityAttribute (Lnet/minecraft/entity/ai/attributes/IAttribute;)Lnet/minecraft/entity/ai/attributes/IAttributeInstance;[7157,7175]::getEntityAttribute->func_110148_a
+Rename field net/minecraft/entity/SharedMonsterAttributes/ATTACK_DAMAGE[7195,7208]::ATTACK_DAMAGE->field_111264_e
+Rename method net/minecraft/entity/ai/attributes/IAttributeInstance/setBaseValue (D)V[7211,7223]::setBaseValue->func_111128_a
+Rename method net/minecraft/entity/EntityLivingBase/getEntityAttribute (Lnet/minecraft/entity/ai/attributes/IAttribute;)Lnet/minecraft/entity/ai/attributes/IAttributeInstance;[7410,7428]::getEntityAttribute->func_110148_a
+Rename field net/minecraft/entity/SharedMonsterAttributes/MAX_HEALTH[7448,7458]::MAX_HEALTH->field_111267_a
+Rename method net/minecraft/entity/ai/attributes/IAttributeInstance/setBaseValue (D)V[7464,7476]::setBaseValue->func_111128_a
+Rename method net/minecraft/entity/EntityLivingBase/getEntityAttribute (Lnet/minecraft/entity/ai/attributes/IAttribute;)Lnet/minecraft/entity/ai/attributes/IAttributeInstance;[7723,7741]::getEntityAttribute->func_110148_a
+Rename field net/minecraft/entity/SharedMonsterAttributes/FOLLOW_RANGE[7761,7773]::FOLLOW_RANGE->field_111265_b
+Rename method net/minecraft/entity/ai/attributes/IAttributeInstance/setBaseValue (D)V[7777,7789]::setBaseValue->func_111128_a
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[8085,8096]::spawnEntity->func_72838_d
+Rename method net/minecraft/util/math/Vec3i/getX ()I[8126,8130]::getX->func_177958_n
+Rename method net/minecraft/util/math/Vec3i/getY ()I[8147,8151]::getY->func_177956_o
+Rename method net/minecraft/util/math/Vec3i/getZ ()I[8168,8172]::getZ->func_177952_p
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[8509,8520]::spawnEntity->func_72838_d
+Rename method net/minecraft/util/math/Vec3i/getX ()I[8550,8554]::getX->func_177958_n
+Rename method net/minecraft/util/math/Vec3i/getY ()I[8571,8575]::getY->func_177956_o
+Rename method net/minecraft/util/math/Vec3i/getZ ()I[8592,8596]::getZ->func_177952_p
+Rename method net/minecraft/entity/Entity/setPosition (DDD)V[8976,8987]::setPosition->func_70107_b
+Rename method net/minecraft/util/math/Vec3i/getX ()I[8993,8997]::getX->func_177958_n
+Rename method net/minecraft/util/math/Vec3i/getY ()I[9030,9034]::getY->func_177956_o
+Rename method net/minecraft/util/math/Vec3i/getZ ()I[9067,9071]::getZ->func_177952_p
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[9112,9123]::spawnEntity->func_72838_d
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[9887,9902]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/pattern/BlockMatcher/forBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/block/state/pattern/BlockMatcher;[9927,9935]::forBlock->func_177642_a
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[9945,9953]::generate->func_180709_b
+Import: java.lang.reflect.Constructor
+Import: java.util.ArrayList
+Import: java.util.Random
+Import: mymod.Main
+Import: mymod._01_ForgeYourSword.CustomMonster
+Import: mymod._02_PowerOre.CustomOre
+Import: mymod._07_BuildAndBoom.EntityBuildGrenade
+Import: mymod._07_BuildAndBoom.EntityClusterGrenadeFragment
+Import: mymod._07_BuildAndBoom.EntityGrenade
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.block.state.pattern.BlockMatcher
+Import: net.minecraft.client.Minecraft
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderEntity
+Import: net.minecraft.client.renderer.entity.RenderSnowball
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityCreature
+Import: net.minecraft.entity.SharedMonsterAttributes
+Import: net.minecraft.entity.item.EntityItem
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.init.Items
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.potion.Potion
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraft.world.gen.feature.WorldGenMinable
+Import: net.minecraft.world.storage.loot.LootTableList
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.client.registry.RenderingRegistry
+Import: net.minecraftforge.fml.common.registry.EntityRegistry
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/Codakid.java
+
+Start Processing: mymod/CodakidFiles/RenderGrenadeBuild.java
+Rename field net/minecraft/item/ItemStack/EMPTY[939,944]::EMPTY->field_190927_a
+FOUND CONSTR method mymod/CodakidFiles/RenderGrenadeBuild/RenderGrenadeBuild (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/CodakidFiles/RenderGrenadeBuild
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1213,1221]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/GlStateManager/pushMatrix ()V[1351,1361]::pushMatrix->func_179094_E
+Rename method net/minecraft/client/renderer/GlStateManager/translate (FFF)V[1392,1401]::translate->func_179109_b
+Rename method net/minecraft/client/renderer/GlStateManager/enableRescaleNormal ()V[1461,1480]::enableRescaleNormal->func_179091_B
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1502,1508]::rotate->func_179114_b
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1522,1535]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/playerViewY[1536,1547]::playerViewY->field_78735_i
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1594,1600]::rotate->func_179114_b
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1621,1634]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/options[1635,1642]::options->field_78733_k
+Rename field net/minecraft/client/settings/GameSettings/thirdPersonView[1649,1664]::thirdPersonView->field_74320_O
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1685,1698]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/playerViewX[1699,1710]::playerViewX->field_78732_j
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1757,1763]::rotate->func_179114_b
+Rename method net/minecraft/client/renderer/entity/Render/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z[1812,1829]::bindEntityTexture->func_180548_c
+Rename field net/minecraft/client/renderer/entity/Render/renderOutlines[1855,1869]::renderOutlines->field_188301_f
+Rename method net/minecraft/client/renderer/GlStateManager/enableColorMaterial ()V[1910,1929]::enableColorMaterial->func_179142_g
+Rename method net/minecraft/client/renderer/GlStateManager/enableOutlineMode (I)V[1955,1972]::enableOutlineMode->func_187431_e
+Rename method net/minecraft/client/renderer/entity/Render/getTeamColor (Lnet/minecraft/entity/Entity;)I[1974,1986]::getTeamColor->func_188298_c
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[2030,2042]::getMinecraft->func_71410_x
+Rename method net/minecraft/client/Minecraft/getRenderItem ()Lnet/minecraft/client/renderer/RenderItem;[2045,2058]::getRenderItem->func_175599_af
+Rename method net/minecraft/client/renderer/RenderItem/renderItem (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/ItemCameraTransforms$TransformType;)V[2062,2072]::renderItem->func_181564_a
+New Key: class net/minecraft/client/renderer/block/model/ItemCameraTransforms
+Rename field net/minecraft/client/renderer/entity/Render/renderOutlines[2154,2168]::renderOutlines->field_188301_f
+Rename method net/minecraft/client/renderer/GlStateManager/disableOutlineMode ()V[2209,2227]::disableOutlineMode->func_187417_n
+Rename method net/minecraft/client/renderer/GlStateManager/disableColorMaterial ()V[2254,2274]::disableColorMaterial->func_179119_h
+Rename method net/minecraft/client/renderer/GlStateManager/disableRescaleNormal ()V[2308,2328]::disableRescaleNormal->func_179101_C
+Rename method net/minecraft/client/renderer/GlStateManager/popMatrix ()V[2349,2358]::popMatrix->func_179121_F
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[2381,2389]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[2743,2759]::getEntityTexture->func_110775_a
+Import: mymod.Main
+Import: mymod._07_BuildAndBoom.EntityBuildGrenade
+Import: net.minecraft.client.Minecraft
+Import: net.minecraft.client.renderer.GlStateManager
+Import: net.minecraft.client.renderer.block.model.ItemCameraTransforms
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/RenderGrenadeBuild.java
+
+Start Processing: mymod/CodakidFiles/RenderGrenadeCluster.java
+Rename field net/minecraft/item/ItemStack/EMPTY[953,958]::EMPTY->field_190927_a
+FOUND CONSTR method mymod/CodakidFiles/RenderGrenadeCluster/RenderGrenadeCluster (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/CodakidFiles/RenderGrenadeCluster
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1229,1237]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/GlStateManager/pushMatrix ()V[1369,1379]::pushMatrix->func_179094_E
+Rename method net/minecraft/client/renderer/GlStateManager/translate (FFF)V[1410,1419]::translate->func_179109_b
+Rename method net/minecraft/client/renderer/GlStateManager/enableRescaleNormal ()V[1479,1498]::enableRescaleNormal->func_179091_B
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1520,1526]::rotate->func_179114_b
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1540,1553]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/playerViewY[1554,1565]::playerViewY->field_78735_i
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1612,1618]::rotate->func_179114_b
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1639,1652]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/options[1653,1660]::options->field_78733_k
+Rename field net/minecraft/client/settings/GameSettings/thirdPersonView[1667,1682]::thirdPersonView->field_74320_O
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1703,1716]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/playerViewX[1717,1728]::playerViewX->field_78732_j
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1775,1781]::rotate->func_179114_b
+Rename method net/minecraft/client/renderer/entity/Render/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z[1830,1847]::bindEntityTexture->func_180548_c
+Rename field net/minecraft/client/renderer/entity/Render/renderOutlines[1873,1887]::renderOutlines->field_188301_f
+Rename method net/minecraft/client/renderer/GlStateManager/enableColorMaterial ()V[1928,1947]::enableColorMaterial->func_179142_g
+Rename method net/minecraft/client/renderer/GlStateManager/enableOutlineMode (I)V[1973,1990]::enableOutlineMode->func_187431_e
+Rename method net/minecraft/client/renderer/entity/Render/getTeamColor (Lnet/minecraft/entity/Entity;)I[1992,2004]::getTeamColor->func_188298_c
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[2048,2060]::getMinecraft->func_71410_x
+Rename method net/minecraft/client/Minecraft/getRenderItem ()Lnet/minecraft/client/renderer/RenderItem;[2063,2076]::getRenderItem->func_175599_af
+Rename method net/minecraft/client/renderer/RenderItem/renderItem (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/ItemCameraTransforms$TransformType;)V[2080,2090]::renderItem->func_181564_a
+New Key: class net/minecraft/client/renderer/block/model/ItemCameraTransforms
+Rename field net/minecraft/client/renderer/entity/Render/renderOutlines[2172,2186]::renderOutlines->field_188301_f
+Rename method net/minecraft/client/renderer/GlStateManager/disableOutlineMode ()V[2227,2245]::disableOutlineMode->func_187417_n
+Rename method net/minecraft/client/renderer/GlStateManager/disableColorMaterial ()V[2272,2292]::disableColorMaterial->func_179119_h
+Rename method net/minecraft/client/renderer/GlStateManager/disableRescaleNormal ()V[2326,2346]::disableRescaleNormal->func_179101_C
+Rename method net/minecraft/client/renderer/GlStateManager/popMatrix ()V[2367,2376]::popMatrix->func_179121_F
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[2399,2407]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[2751,2767]::getEntityTexture->func_110775_a
+Import: mymod.Main
+Import: mymod._07_BuildAndBoom.EntityClusterGrenade
+Import: net.minecraft.client.Minecraft
+Import: net.minecraft.client.renderer.GlStateManager
+Import: net.minecraft.client.renderer.block.model.ItemCameraTransforms
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/RenderGrenadeCluster.java
+
+Start Processing: mymod/CodakidFiles/RenderGrenadeClusterFragment.java
+Rename field net/minecraft/item/ItemStack/EMPTY[1060,1065]::EMPTY->field_190927_a
+FOUND CONSTR method mymod/CodakidFiles/RenderGrenadeClusterFragment/RenderGrenadeClusterFragment (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/CodakidFiles/RenderGrenadeClusterFragment
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1345,1353]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/GlStateManager/pushMatrix ()V[1493,1503]::pushMatrix->func_179094_E
+Rename method net/minecraft/client/renderer/GlStateManager/translate (FFF)V[1534,1543]::translate->func_179109_b
+Rename method net/minecraft/client/renderer/GlStateManager/enableRescaleNormal ()V[1603,1622]::enableRescaleNormal->func_179091_B
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1644,1650]::rotate->func_179114_b
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1664,1677]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/playerViewY[1678,1689]::playerViewY->field_78735_i
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1736,1742]::rotate->func_179114_b
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1763,1776]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/options[1777,1784]::options->field_78733_k
+Rename field net/minecraft/client/settings/GameSettings/thirdPersonView[1791,1806]::thirdPersonView->field_74320_O
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1827,1840]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/playerViewX[1841,1852]::playerViewX->field_78732_j
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1899,1905]::rotate->func_179114_b
+Rename method net/minecraft/client/renderer/entity/Render/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z[1954,1971]::bindEntityTexture->func_180548_c
+Rename field net/minecraft/client/renderer/entity/Render/renderOutlines[1997,2011]::renderOutlines->field_188301_f
+Rename method net/minecraft/client/renderer/GlStateManager/enableColorMaterial ()V[2052,2071]::enableColorMaterial->func_179142_g
+Rename method net/minecraft/client/renderer/GlStateManager/enableOutlineMode (I)V[2097,2114]::enableOutlineMode->func_187431_e
+Rename method net/minecraft/client/renderer/entity/Render/getTeamColor (Lnet/minecraft/entity/Entity;)I[2116,2128]::getTeamColor->func_188298_c
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[2172,2184]::getMinecraft->func_71410_x
+Rename method net/minecraft/client/Minecraft/getRenderItem ()Lnet/minecraft/client/renderer/RenderItem;[2187,2200]::getRenderItem->func_175599_af
+Rename method net/minecraft/client/renderer/RenderItem/renderItem (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/ItemCameraTransforms$TransformType;)V[2204,2214]::renderItem->func_181564_a
+New Key: class net/minecraft/client/renderer/block/model/ItemCameraTransforms
+Rename field net/minecraft/client/renderer/entity/Render/renderOutlines[2296,2310]::renderOutlines->field_188301_f
+Rename method net/minecraft/client/renderer/GlStateManager/disableOutlineMode ()V[2351,2369]::disableOutlineMode->func_187417_n
+Rename method net/minecraft/client/renderer/GlStateManager/disableColorMaterial ()V[2396,2416]::disableColorMaterial->func_179119_h
+Rename method net/minecraft/client/renderer/GlStateManager/disableRescaleNormal ()V[2450,2470]::disableRescaleNormal->func_179101_C
+Rename method net/minecraft/client/renderer/GlStateManager/popMatrix ()V[2491,2500]::popMatrix->func_179121_F
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[2523,2531]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[2883,2899]::getEntityTexture->func_110775_a
+Import: mymod.Main
+Import: mymod._07_BuildAndBoom.EntityClusterGrenadeFragment
+Import: net.minecraft.client.Minecraft
+Import: net.minecraft.client.renderer.GlStateManager
+Import: net.minecraft.client.renderer.block.model.ItemCameraTransforms
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/RenderGrenadeClusterFragment.java
+
+Start Processing: mymod/CodakidFiles/RenderGrenadeCustom.java
+Rename field net/minecraft/item/ItemStack/EMPTY[994,999]::EMPTY->field_190927_a
+FOUND CONSTR method mymod/CodakidFiles/RenderGrenadeCustom/RenderGrenadeCustom (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/CodakidFiles/RenderGrenadeCustom
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1153,1161]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/GlStateManager/pushMatrix ()V[1286,1296]::pushMatrix->func_179094_E
+Rename method net/minecraft/client/renderer/GlStateManager/translate (DDD)V[1327,1336]::translate->func_179137_b
+Rename method net/minecraft/client/renderer/GlStateManager/enableRescaleNormal ()V[1375,1394]::enableRescaleNormal->func_179091_B
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1416,1422]::rotate->func_179114_b
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1436,1449]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/playerViewY[1450,1461]::playerViewY->field_78735_i
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1508,1514]::rotate->func_179114_b
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1535,1548]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/options[1549,1556]::options->field_78733_k
+Rename field net/minecraft/client/settings/GameSettings/thirdPersonView[1563,1578]::thirdPersonView->field_74320_O
+Rename field net/minecraft/client/renderer/entity/Render/renderManager[1599,1612]::renderManager->field_76990_c
+Rename field net/minecraft/client/renderer/entity/RenderManager/playerViewX[1613,1624]::playerViewX->field_78732_j
+Rename method net/minecraft/client/renderer/GlStateManager/rotate (FFFF)V[1671,1677]::rotate->func_179114_b
+Rename method net/minecraft/client/renderer/entity/Render/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z[1726,1743]::bindEntityTexture->func_180548_c
+Rename field net/minecraft/client/renderer/entity/Render/renderOutlines[1770,1784]::renderOutlines->field_188301_f
+Rename method net/minecraft/client/renderer/GlStateManager/enableColorMaterial ()V[1825,1844]::enableColorMaterial->func_179142_g
+Rename method net/minecraft/client/renderer/GlStateManager/enableOutlineMode (I)V[1870,1887]::enableOutlineMode->func_187431_e
+Rename method net/minecraft/client/renderer/entity/Render/getTeamColor (Lnet/minecraft/entity/Entity;)I[1889,1901]::getTeamColor->func_188298_c
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[1946,1958]::getMinecraft->func_71410_x
+Rename method net/minecraft/client/Minecraft/getRenderItem ()Lnet/minecraft/client/renderer/RenderItem;[1961,1974]::getRenderItem->func_175599_af
+Rename method net/minecraft/client/renderer/RenderItem/renderItem (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/ItemCameraTransforms$TransformType;)V[1978,1988]::renderItem->func_181564_a
+New Key: class net/minecraft/client/renderer/block/model/ItemCameraTransforms
+Rename field net/minecraft/client/renderer/entity/Render/renderOutlines[2071,2085]::renderOutlines->field_188301_f
+Rename method net/minecraft/client/renderer/GlStateManager/disableOutlineMode ()V[2126,2144]::disableOutlineMode->func_187417_n
+Rename method net/minecraft/client/renderer/GlStateManager/disableColorMaterial ()V[2171,2191]::disableColorMaterial->func_179119_h
+Rename method net/minecraft/client/renderer/GlStateManager/disableRescaleNormal ()V[2226,2246]::disableRescaleNormal->func_179101_C
+Rename method net/minecraft/client/renderer/GlStateManager/popMatrix ()V[2267,2276]::popMatrix->func_179121_F
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[2299,2307]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[2406,2422]::getEntityTexture->func_110775_a
+Import: mymod.Main
+Import: mymod._07_BuildAndBoom.EntityGrenade
+Import: net.minecraft.client.Minecraft
+Import: net.minecraft.client.renderer.GlStateManager
+Import: net.minecraft.client.renderer.block.model.ItemCameraTransforms
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/RenderGrenadeCustom.java
+
+Start Processing: mymod/CodakidFiles/RenderMonsterBiped.java
+FOUND CONSTR method mymod/CodakidFiles/RenderMonsterBiped/RenderMonsterBiped (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/CodakidFiles/RenderMonsterBiped
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1214,1222]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1456,1464]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[1734,1750]::getEntityTexture->func_110775_a
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: mymod.Main
+Import: mymod._01_ForgeYourSword.CustomMonster
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/RenderMonsterBiped.java
+
+Start Processing: mymod/CodakidFiles/RenderMonsterBiped2.java
+FOUND CONSTR method mymod/CodakidFiles/RenderMonsterBiped2/RenderMonsterBiped2 (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/CodakidFiles/RenderMonsterBiped2
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1219,1227]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1462,1470]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[1742,1758]::getEntityTexture->func_110775_a
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: mymod.Main
+Import: mymod._01_ForgeYourSword.CustomMonster2
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/RenderMonsterBiped2.java
+
+Start Processing: mymod/CodakidFiles/RenderMonsterPig.java
+FOUND CONSTR method mymod/CodakidFiles/RenderMonsterPig/RenderMonsterPig (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/CodakidFiles/RenderMonsterPig
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1204,1212]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1446,1454]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[1722,1738]::getEntityTexture->func_110775_a
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: mymod.Main
+Import: mymod._01_ForgeYourSword.CustomMonster
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/RenderMonsterPig.java
+
+Start Processing: mymod/CodakidFiles/RenderMonsterWolf.java
+FOUND CONSTR method mymod/CodakidFiles/RenderMonsterWolf/RenderMonsterWolf (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/CodakidFiles/RenderMonsterWolf
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1209,1217]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1451,1459]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[1728,1744]::getEntityTexture->func_110775_a
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: mymod.Main
+Import: mymod._01_ForgeYourSword.CustomMonster
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/CodakidFiles/RenderMonsterWolf.java
+
+Start Processing: mymod/CodakidFiles/ServerProxy.java
+Import: mymod.CommonProxy
+End  Processing: mymod/CodakidFiles/ServerProxy.java
+
+Start Processing: mymod/CommonProxy.java
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/common/BiomeManager
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+Import: mymod.CodakidFiles.Codakid
+Import: mymod.CodakidFiles.RenderMonsterBiped
+Import: mymod.CodakidFiles.RenderMonsterBiped2
+Import: mymod.CodakidFiles.RenderMonsterPig
+Import: mymod._01_ForgeYourSword.CustomMonster
+Import: mymod._01_ForgeYourSword.CustomMonster2
+Import: mymod._02_PowerOre.CustomWorldGen
+Import: mymod._04_CreateACreature.CustomMob
+Import: mymod._04_CreateACreature.CustomMob2
+Import: mymod._04_CreateACreature.CustomMob3
+Import: mymod._04_CreateACreature.RenderCustomMob
+Import: mymod._04_CreateACreature.RenderCustomMob2
+Import: mymod._04_CreateACreature.RenderCustomMob3
+Import: net.minecraft.block.Block
+Import: net.minecraft.client.renderer.entity.RenderBiped
+Import: net.minecraft.entity.EnumCreatureType
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraftforge.common.BiomeManager
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.registry.EntityRegistry
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: java.awt.Color
+End  Processing: mymod/CommonProxy.java
+
+Start Processing: mymod/Main.java
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+Rename field net/minecraft/init/SoundEvents/BLOCK_STONE_BREAK[7254,7271]::BLOCK_STONE_BREAK->field_187835_fT
+Rename field net/minecraft/init/SoundEvents/BLOCK_LAVA_POP[8094,8108]::BLOCK_LAVA_POP->field_187662_cZ
+Rename field net/minecraft/init/SoundEvents/BLOCK_GLASS_BREAK[8253,8270]::BLOCK_GLASS_BREAK->field_187561_bM
+Rename field net/minecraft/init/SoundEvents/BLOCK_ANVIL_FALL[8668,8684]::BLOCK_ANVIL_FALL->field_187683_d
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+Import: org.apache.logging.log4j.Logger
+Import: mymod.CodakidFiles.Codakid
+Import: mymod._02_PowerOre.CustomAxe2
+Import: mymod._02_PowerOre.CustomHoe
+Import: mymod._01_ForgeYourSword.CustomBow
+Import: mymod._01_ForgeYourSword.CustomRod
+Import: mymod._01_ForgeYourSword.CustomShovel2
+Import: mymod._01_ForgeYourSword.CustomSword
+Import: mymod._01_ForgeYourSword.CustomSword2
+Import: mymod._02_PowerOre.CustomAxe
+Import: mymod._02_PowerOre.CustomIngot
+Import: mymod._02_PowerOre.CustomOre
+Import: mymod._02_PowerOre.CustomPickaxe
+Import: mymod._02_PowerOre.CustomPickaxe2
+Import: mymod._02_PowerOre.CustomShovel
+Import: mymod._02_PowerOre.CustomThermo
+Import: mymod._03_MagicArmor.CustomArmor
+Import: mymod._03_MagicArmor.CustomArmor2
+Import: mymod._03_MagicArmor.CustomArmor3
+Import: mymod._03_MagicArmor.CustomBoots
+Import: mymod._05_LuckyBlock.LuckyBlock
+Import: mymod._06_BrandNewBiomes.CustomBiome
+Import: mymod._06_BrandNewBiomes.CustomBiome2
+Import: mymod._06_BrandNewBiomes.CustomBiome3
+Import: mymod._08_HouseInABox.StructureBlock
+Import: mymod._09_EpicWeapons.CowGun
+Import: mymod._09_EpicWeapons.LavaLauncher
+Import: mymod._09_EpicWeapons.ThunderHammer
+Import: mymod._10_MyXtra.CustomAxe3
+Import: mymod._10_MyXtra.CustomIngot2
+Import: mymod._10_MyXtra.CustomOre2
+Import: mymod._10_MyXtra.CustomPickaxe3
+Import: mymod._10_MyXtra.CustomShovel3
+Import: mymod._10_MyXtra.CustomSword3
+Import: mymod._10_MyXtra.CustomSword4
+Import: mymod._10_MyXtra.FrozenBlock
+Import: mymod._10_MyXtra.StructureBlock2
+Import: mymod._10_MyXtra.SunBlock
+Import: mymod._11_MyXtra2.CustomIngot3
+Import: mymod._11_MyXtra2.CustomOre3
+Import: mymod._11_MyXtra2.CustomPickaxe4
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.client.Minecraft
+Import: net.minecraft.init.SoundEvents
+Import: net.minecraft.inventory.EntityEquipmentSlot
+Import: net.minecraft.item.Item.ToolMaterial
+Import: net.minecraft.item.ItemArmor.ArmorMaterial
+Import: net.minecraftforge.common.util.EnumHelper
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.SidedProxy
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/Main.java
+
+Start Processing: mymod/_01_ForgeYourSword/CustomBow.java
+FOUND CONSTR method mymod/_01_ForgeYourSword/CustomBow/CustomBow ()V mymod/_01_ForgeYourSword/CustomBow
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[542,556]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[568,574]::COMBAT->field_78037_j
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[592,604]::setMaxDamage->func_77656_e
+Rename method net/minecraft/item/ItemBow/getArrowVelocity (I)F[617,633]::getArrowVelocity->func_185059_b
+Import: mymod.Main
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemBow
+Import: net.minecraft.item.ItemSword
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: scala.reflect.internal.Trees.Super
+End  Processing: mymod/_01_ForgeYourSword/CustomBow.java
+
+Start Processing: mymod/_01_ForgeYourSword/CustomMonster.java
+FOUND CONSTR method mymod/_01_ForgeYourSword/CustomMonster/CustomMonster (Lnet/minecraft/world/World;)V mymod/_01_ForgeYourSword/CustomMonster
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1415,1436]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1445,1466]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLiving/initEntityAI ()V[1733,1745]::initEntityAI->func_184651_r
+Rename field net/minecraft/entity/EntityLiving/tasks[1765,1770]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1780,1787]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1839,1844]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1854,1861]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1929,1934]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1944,1951]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2023,2028]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2038,2045]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2101,2106]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2116,2123]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2205,2210]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2220,2227]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2279,2284]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2294,2301]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2376,2387]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2391,2398]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2496,2507]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2511,2518]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2611,2622]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2626,2633]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2729,2740]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2744,2751]::addTask->func_75776_a
+Rename method net/minecraft/entity/EntityLiving/getLootTable ()Lnet/minecraft/util/ResourceLocation;[2903,2915]::getLootTable->func_184647_J
+Import: java.util.Random
+Import: javax.annotation.Nullable
+Import: mymod.Main
+Import: mymod.CodakidFiles.Codakid
+Import: net.minecraft.entity.SharedMonsterAttributes
+Import: net.minecraft.entity.ai.EntityAIAttackMelee
+Import: net.minecraft.entity.ai.EntityAIHurtByTarget
+Import: net.minecraft.entity.ai.EntityAILookIdle
+Import: net.minecraft.entity.ai.EntityAIMoveThroughVillage
+Import: net.minecraft.entity.ai.EntityAIMoveTowardsRestriction
+Import: net.minecraft.entity.ai.EntityAINearestAttackableTarget
+Import: net.minecraft.entity.ai.EntityAISwimming
+Import: net.minecraft.entity.ai.EntityAIWander
+Import: net.minecraft.entity.ai.EntityAIWatchClosest
+Import: net.minecraft.entity.monster.EntityIronGolem
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.entity.monster.EntityPigZombie
+Import: net.minecraft.entity.passive.EntityVillager
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.init.Items
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.world.World
+End  Processing: mymod/_01_ForgeYourSword/CustomMonster.java
+
+Start Processing: mymod/_01_ForgeYourSword/CustomMonster2.java
+FOUND CONSTR method mymod/_01_ForgeYourSword/CustomMonster2/CustomMonster2 (Lnet/minecraft/world/World;)V mymod/_01_ForgeYourSword/CustomMonster2
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1424,1445]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1454,1475]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLiving/initEntityAI ()V[1742,1754]::initEntityAI->func_184651_r
+Rename field net/minecraft/entity/EntityLiving/tasks[1774,1779]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1789,1796]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1848,1853]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1863,1870]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1938,1943]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1953,1960]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2032,2037]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2047,2054]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2110,2115]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2125,2132]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2214,2219]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2229,2236]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2288,2293]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2303,2310]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2385,2396]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2400,2407]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2505,2516]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2520,2527]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2620,2631]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2635,2642]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2738,2749]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2753,2760]::addTask->func_75776_a
+Rename method net/minecraft/entity/EntityLiving/getLootTable ()Lnet/minecraft/util/ResourceLocation;[2912,2924]::getLootTable->func_184647_J
+Import: java.util.Random
+Import: javax.annotation.Nullable
+Import: mymod.Main
+Import: mymod.CodakidFiles.Codakid
+Import: net.minecraft.entity.SharedMonsterAttributes
+Import: net.minecraft.entity.ai.EntityAIAttackMelee
+Import: net.minecraft.entity.ai.EntityAIHurtByTarget
+Import: net.minecraft.entity.ai.EntityAILookIdle
+Import: net.minecraft.entity.ai.EntityAIMoveThroughVillage
+Import: net.minecraft.entity.ai.EntityAIMoveTowardsRestriction
+Import: net.minecraft.entity.ai.EntityAINearestAttackableTarget
+Import: net.minecraft.entity.ai.EntityAISwimming
+Import: net.minecraft.entity.ai.EntityAIWander
+Import: net.minecraft.entity.ai.EntityAIWatchClosest
+Import: net.minecraft.entity.monster.EntityIronGolem
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.entity.monster.EntityPigZombie
+Import: net.minecraft.entity.passive.EntityVillager
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.init.Items
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.world.World
+End  Processing: mymod/_01_ForgeYourSword/CustomMonster2.java
+
+Start Processing: mymod/_01_ForgeYourSword/CustomRod.java
+FOUND CONSTR method mymod/_01_ForgeYourSword/CustomRod/CustomRod ()V mymod/_01_ForgeYourSword/CustomRod
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[211,225]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MATERIALS[237,246]::MATERIALS->field_78035_l
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+End  Processing: mymod/_01_ForgeYourSword/CustomRod.java
+
+Start Processing: mymod/_01_ForgeYourSword/CustomShovel2.java
+FOUND CONSTR method mymod/_01_ForgeYourSword/CustomShovel2/CustomShovel2 ()V mymod/_01_ForgeYourSword/CustomShovel2
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[262,276]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[288,293]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemSpade
+End  Processing: mymod/_01_ForgeYourSword/CustomShovel2.java
+
+Start Processing: mymod/_01_ForgeYourSword/CustomSword.java
+FOUND CONSTR method mymod/_01_ForgeYourSword/CustomSword/CustomSword ()V mymod/_01_ForgeYourSword/CustomSword
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[488,502]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[514,520]::COMBAT->field_78037_j
+Import: mymod.Main
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemSword
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_01_ForgeYourSword/CustomSword.java
+
+Start Processing: mymod/_01_ForgeYourSword/CustomSword2.java
+FOUND CONSTR method mymod/_01_ForgeYourSword/CustomSword2/CustomSword2 ()V mymod/_01_ForgeYourSword/CustomSword2
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[698,712]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[724,730]::COMBAT->field_78037_j
+Import: mymod.Main
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemSword
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_01_ForgeYourSword/CustomSword2.java
+
+Start Processing: mymod/_02_PowerOre/CustomAxe.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomAxe/CustomAxe ()V mymod/_02_PowerOre/CustomAxe
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[251,265]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[277,282]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemAxe
+End  Processing: mymod/_02_PowerOre/CustomAxe.java
+
+Start Processing: mymod/_02_PowerOre/CustomAxe2.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomAxe2/CustomAxe2 ()V mymod/_02_PowerOre/CustomAxe2
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[253,267]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[279,284]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemAxe
+End  Processing: mymod/_02_PowerOre/CustomAxe2.java
+
+Start Processing: mymod/_02_PowerOre/CustomHoe.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomHoe/CustomHoe ()V mymod/_02_PowerOre/CustomHoe
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[239,253]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[265,270]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemHoe
+End  Processing: mymod/_02_PowerOre/CustomHoe.java
+
+Start Processing: mymod/_02_PowerOre/CustomIngot.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomIngot/CustomIngot ()V mymod/_02_PowerOre/CustomIngot
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[194,208]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MATERIALS[220,229]::MATERIALS->field_78035_l
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+End  Processing: mymod/_02_PowerOre/CustomIngot.java
+
+Start Processing: mymod/_02_PowerOre/CustomOre.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomOre/CustomOre ()V mymod/_02_PowerOre/CustomOre
+Rename field net/minecraft/block/material/Material/ROCK[527,531]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[552,566]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[579,594]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[603,614]::setHardness->func_149711_c
+Import: mymod.Main
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_02_PowerOre/CustomOre.java
+
+Start Processing: mymod/_02_PowerOre/CustomPickaxe.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomPickaxe/CustomPickaxe ()V mymod/_02_PowerOre/CustomPickaxe
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[258,272]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[284,289]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemPickaxe
+End  Processing: mymod/_02_PowerOre/CustomPickaxe.java
+
+Start Processing: mymod/_02_PowerOre/CustomPickaxe2.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomPickaxe2/CustomPickaxe2 ()V mymod/_02_PowerOre/CustomPickaxe2
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[256,270]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[282,287]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemPickaxe
+End  Processing: mymod/_02_PowerOre/CustomPickaxe2.java
+
+Start Processing: mymod/_02_PowerOre/CustomShovel.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomShovel/CustomShovel ()V mymod/_02_PowerOre/CustomShovel
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[253,267]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[279,284]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemSpade
+End  Processing: mymod/_02_PowerOre/CustomShovel.java
+
+Start Processing: mymod/_02_PowerOre/CustomThermo.java
+FOUND CONSTR method mymod/_02_PowerOre/CustomThermo/CustomThermo ()V mymod/_02_PowerOre/CustomThermo
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[294,308]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[320,325]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemAxe
+Import: net.minecraft.item.ItemPickaxe
+End  Processing: mymod/_02_PowerOre/CustomThermo.java
+
+Start Processing: mymod/_02_PowerOre/CustomWorldGen.java
+Rename field net/minecraft/init/Blocks/RED_SANDSTONE[847,860]::RED_SANDSTONE->field_180395_cM
+Rename field net/minecraft/init/Blocks/CONCRETE_POWDER[959,974]::CONCRETE_POWDER->field_192444_dS
+Rename field net/minecraft/init/Blocks/ICE[1067,1070]::ICE->field_150432_aD
+Rename field net/minecraft/init/Blocks/SNOW[1180,1184]::SNOW->field_150433_aE
+Rename field net/minecraft/init/Blocks/ICE[1286,1289]::ICE->field_150432_aD
+Rename field net/minecraft/init/Blocks/RED_SANDSTONE[1310,1323]::RED_SANDSTONE->field_180395_cM
+Import: java.awt.Color
+Import: java.util.Random
+Import: mymod.Main
+Import: mymod.CodakidFiles.Codakid
+Import: net.minecraft.client.renderer.color.BlockColors
+Import: net.minecraft.init.Biomes
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.item.EnumDyeColor
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+Import: net.minecraft.world.chunk.IChunkProvider
+Import: net.minecraft.world.gen.IChunkGenerator
+Import: net.minecraftforge.fml.common.IWorldGenerator
+End  Processing: mymod/_02_PowerOre/CustomWorldGen.java
+
+Start Processing: mymod/_03_MagicArmor/CustomArmor.java
+FOUND CONSTR method mymod/_03_MagicArmor/CustomArmor/CustomArmor (ILnet/minecraft/inventory/EntityEquipmentSlot;)V mymod/_03_MagicArmor/CustomArmor
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[578,592]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[604,610]::COMBAT->field_78037_j
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[734,749]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/FIRE_RESISTANCE[775,790]::FIRE_RESISTANCE->field_76426_n
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[810,825]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SPEED[851,856]::SPEED->field_76424_c
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[886,901]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/GLOWING[927,934]::GLOWING->field_188423_x
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[963,978]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/REGENERATION[1004,1016]::REGENERATION->field_76428_l
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1038,1053]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SATURATION[1079,1089]::SATURATION->field_76443_y
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.inventory.EntityEquipmentSlot
+Import: net.minecraft.item.ItemArmor
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraft.world.World
+End  Processing: mymod/_03_MagicArmor/CustomArmor.java
+
+Start Processing: mymod/_03_MagicArmor/CustomArmor2.java
+FOUND CONSTR method mymod/_03_MagicArmor/CustomArmor2/CustomArmor2 (ILnet/minecraft/inventory/EntityEquipmentSlot;)V mymod/_03_MagicArmor/CustomArmor2
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[581,595]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[607,613]::COMBAT->field_78037_j
+Rename field net/minecraft/item/ItemArmor/armorType[737,746]::armorType->field_77881_a
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[796,811]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/RESISTANCE[837,847]::RESISTANCE->field_76429_m
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[874,889]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SLOWNESS[915,923]::SLOWNESS->field_76421_d
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[952,967]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/FIRE_RESISTANCE[993,1008]::FIRE_RESISTANCE->field_76426_n
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.inventory.EntityEquipmentSlot
+Import: net.minecraft.item.ItemArmor
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraft.world.World
+End  Processing: mymod/_03_MagicArmor/CustomArmor2.java
+
+Start Processing: mymod/_03_MagicArmor/CustomArmor3.java
+FOUND CONSTR method mymod/_03_MagicArmor/CustomArmor3/CustomArmor3 (ILnet/minecraft/inventory/EntityEquipmentSlot;)V mymod/_03_MagicArmor/CustomArmor3
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[581,595]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[607,613]::COMBAT->field_78037_j
+Rename field net/minecraft/item/ItemArmor/armorType[737,746]::armorType->field_77881_a
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[796,811]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/RESISTANCE[837,847]::RESISTANCE->field_76429_m
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[874,889]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SPEED[915,920]::SPEED->field_76424_c
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[952,967]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SATURATION[993,1003]::SATURATION->field_76443_y
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1030,1045]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/HASTE[1071,1076]::HASTE->field_76422_e
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.inventory.EntityEquipmentSlot
+Import: net.minecraft.item.ItemArmor
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraft.world.World
+End  Processing: mymod/_03_MagicArmor/CustomArmor3.java
+
+Start Processing: mymod/_03_MagicArmor/CustomBoots.java
+FOUND CONSTR method mymod/_03_MagicArmor/CustomBoots/CustomBoots (ILnet/minecraft/inventory/EntityEquipmentSlot;)V mymod/_03_MagicArmor/CustomBoots
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[584,598]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[610,616]::COMBAT->field_78037_j
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[740,755]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SPEED[781,786]::SPEED->field_76424_c
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[815,830]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/GLOWING[856,863]::GLOWING->field_188423_x
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[892,907]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SATURATION[933,943]::SATURATION->field_76443_y
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[968,983]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/JUMP_BOOST[1009,1019]::JUMP_BOOST->field_76430_j
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1044,1059]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/NIGHT_VISION[1085,1097]::NIGHT_VISION->field_76439_r
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.inventory.EntityEquipmentSlot
+Import: net.minecraft.item.ItemArmor
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraft.world.World
+End  Processing: mymod/_03_MagicArmor/CustomBoots.java
+
+Start Processing: mymod/_04_CreateACreature/CustomMob.java
+FOUND CONSTR method mymod/_04_CreateACreature/CustomMob/CustomMob (Lnet/minecraft/world/World;)V mymod/_04_CreateACreature/CustomMob
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1357,1378]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1389,1410]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLiving/initEntityAI ()V[1680,1692]::initEntityAI->func_184651_r
+Rename field net/minecraft/entity/EntityLiving/tasks[1706,1711]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1721,1728]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1788,1793]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1803,1810]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1856,1861]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1871,1878]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1952,1957]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1967,1974]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2035,2040]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2050,2057]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2113,2124]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2128,2135]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2205,2216]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2220,2227]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2314,2325]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2329,2336]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2424,2435]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2439,2446]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2533,2544]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2548,2555]::addTask->func_75776_a
+Rename method net/minecraft/entity/EntityLiving/getLootTable ()Lnet/minecraft/util/ResourceLocation;[2686,2698]::getLootTable->func_184647_J
+FOUND CONSTR method mymod/_04_CreateACreature/CustomMob/EntityAIFireballAttack/EntityAIFireballAttack (Lmymod/_04_CreateACreature/CustomMob;)V mymod/_04_CreateACreature/CustomMob/EntityAIFireballAttack
+Rename method net/minecraft/entity/ai/EntityAIBase/shouldExecute ()Z[2960,2973]::shouldExecute->func_75250_a
+Rename method net/minecraft/entity/EntityLiving/getAttackTarget ()Lnet/minecraft/entity/EntityLivingBase;[3021,3036]::getAttackTarget->func_70638_az
+Rename method net/minecraft/entity/Entity/isEntityAlive ()Z[3107,3120]::isEntityAlive->func_70089_S
+Rename method net/minecraft/entity/ai/EntityAIBase/updateTask ()V[3221,3231]::updateTask->func_75246_d
+Rename method net/minecraft/entity/EntityLiving/getAttackTarget ()Lnet/minecraft/entity/EntityLivingBase;[3282,3297]::getAttackTarget->func_70638_az
+Rename method net/minecraft/entity/EntityLiving/getLookHelper ()Lnet/minecraft/entity/ai/EntityLookHelper;[3317,3330]::getLookHelper->func_70671_ap
+Rename method net/minecraft/entity/ai/EntityLookHelper/setLookPositionWithEntity (Lnet/minecraft/entity/Entity;FF)V[3333,3358]::setLookPositionWithEntity->func_75651_a
+Rename field net/minecraft/entity/Entity/posX[3462,3466]::posX->field_70165_t
+Rename field net/minecraft/entity/Entity/posX[3492,3496]::posX->field_70165_t
+Rename field net/minecraft/entity/Entity/posY[3567,3571]::posY->field_70163_u
+Rename method net/minecraft/entity/Entity/getEyeHeight ()F[3590,3602]::getEyeHeight->func_70047_e
+Rename field net/minecraft/entity/Entity/posY[3623,3627]::posY->field_70163_u
+Rename method net/minecraft/entity/Entity/getEyeHeight ()F[3653,3665]::getEyeHeight->func_70047_e
+Rename field net/minecraft/entity/Entity/posZ[3731,3735]::posZ->field_70161_v
+Rename field net/minecraft/entity/Entity/posZ[3761,3765]::posZ->field_70161_v
+Rename field net/minecraft/entity/Entity/world[3882,3887]::world->field_70170_p
+Rename field net/minecraft/entity/Entity/posY[3947,3951]::posY->field_70163_u
+Rename field net/minecraft/entity/Entity/posY[3977,3981]::posY->field_70163_u
+Rename method net/minecraft/entity/Entity/getEyeHeight ()F[4007,4019]::getEyeHeight->func_70047_e
+Rename field net/minecraft/entity/Entity/world[4041,4046]::world->field_70170_p
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[4055,4066]::spawnEntity->func_72838_d
+Import: java.util.Random
+Import: mymod.Main
+Import: mymod.CodakidFiles.Codakid
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.ai.EntityAIAttackMelee
+Import: net.minecraft.entity.ai.EntityAIAttackRanged
+Import: net.minecraft.entity.ai.EntityAIBase
+Import: net.minecraft.entity.ai.EntityAIHurtByTarget
+Import: net.minecraft.entity.ai.EntityAINearestAttackableTarget
+Import: net.minecraft.entity.ai.EntityAISwimming
+Import: net.minecraft.entity.ai.EntityAIWander
+Import: net.minecraft.entity.ai.EntityAIWatchClosest
+Import: net.minecraft.entity.monster.EntityCreeper
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.entity.monster.EntitySkeleton
+Import: net.minecraft.entity.monster.EntityZombie
+Import: net.minecraft.entity.passive.EntityAnimal
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.entity.projectile.EntitySmallFireball
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.world.World
+End  Processing: mymod/_04_CreateACreature/CustomMob.java
+
+Start Processing: mymod/_04_CreateACreature/CustomMob2.java
+FOUND CONSTR method mymod/_04_CreateACreature/CustomMob2/CustomMob2 (Lnet/minecraft/world/World;)V mymod/_04_CreateACreature/CustomMob2
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1687,1708]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1719,1740]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLiving/initEntityAI ()V[2010,2022]::initEntityAI->func_184651_r
+Rename field net/minecraft/entity/EntityLiving/tasks[2036,2041]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2051,2058]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2118,2123]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2133,2140]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2186,2191]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2201,2208]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2282,2287]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2297,2304]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[2365,2370]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2380,2387]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2443,2454]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2458,2465]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2535,2546]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2550,2557]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2644,2655]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2659,2666]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2754,2765]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2769,2776]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2863,2874]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2878,2885]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[2972,2983]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2987,2994]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[3085,3096]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[3100,3107]::addTask->func_75776_a
+Rename method net/minecraft/entity/EntityLiving/getLootTable ()Lnet/minecraft/util/ResourceLocation;[3244,3256]::getLootTable->func_184647_J
+FOUND CONSTR method mymod/_04_CreateACreature/CustomMob2/EntityAIFireballAttack/EntityAIFireballAttack (Lmymod/_04_CreateACreature/CustomMob2;)V mymod/_04_CreateACreature/CustomMob2/EntityAIFireballAttack
+Rename method net/minecraft/entity/ai/EntityAIBase/shouldExecute ()Z[3520,3533]::shouldExecute->func_75250_a
+Rename method net/minecraft/entity/EntityLiving/getAttackTarget ()Lnet/minecraft/entity/EntityLivingBase;[3581,3596]::getAttackTarget->func_70638_az
+Rename method net/minecraft/entity/Entity/isEntityAlive ()Z[3667,3680]::isEntityAlive->func_70089_S
+Rename method net/minecraft/entity/ai/EntityAIBase/updateTask ()V[3781,3791]::updateTask->func_75246_d
+Rename method net/minecraft/entity/EntityLiving/getAttackTarget ()Lnet/minecraft/entity/EntityLivingBase;[3842,3857]::getAttackTarget->func_70638_az
+Rename method net/minecraft/entity/EntityLiving/getLookHelper ()Lnet/minecraft/entity/ai/EntityLookHelper;[3877,3890]::getLookHelper->func_70671_ap
+Rename method net/minecraft/entity/ai/EntityLookHelper/setLookPositionWithEntity (Lnet/minecraft/entity/Entity;FF)V[3893,3918]::setLookPositionWithEntity->func_75651_a
+Rename field net/minecraft/entity/Entity/posX[4022,4026]::posX->field_70165_t
+Rename field net/minecraft/entity/Entity/posX[4052,4056]::posX->field_70165_t
+Rename field net/minecraft/entity/Entity/posY[4127,4131]::posY->field_70163_u
+Rename method net/minecraft/entity/Entity/getEyeHeight ()F[4150,4162]::getEyeHeight->func_70047_e
+Rename field net/minecraft/entity/Entity/posY[4183,4187]::posY->field_70163_u
+Rename method net/minecraft/entity/Entity/getEyeHeight ()F[4213,4225]::getEyeHeight->func_70047_e
+Rename field net/minecraft/entity/Entity/posZ[4291,4295]::posZ->field_70161_v
+Rename field net/minecraft/entity/Entity/posZ[4321,4325]::posZ->field_70161_v
+Rename field net/minecraft/entity/Entity/world[4442,4447]::world->field_70170_p
+Rename field net/minecraft/entity/Entity/posY[4507,4511]::posY->field_70163_u
+Rename field net/minecraft/entity/Entity/posY[4537,4541]::posY->field_70163_u
+Rename method net/minecraft/entity/Entity/getEyeHeight ()F[4567,4579]::getEyeHeight->func_70047_e
+Rename field net/minecraft/entity/Entity/world[4601,4606]::world->field_70170_p
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[4615,4626]::spawnEntity->func_72838_d
+Import: java.util.Random
+Import: javax.swing.text.html.parser.Entity
+Import: mymod.Main
+Import: mymod.CodakidFiles.Codakid
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.ai.EntityAIAttackMelee
+Import: net.minecraft.entity.ai.EntityAIAttackRanged
+Import: net.minecraft.entity.ai.EntityAIBase
+Import: net.minecraft.entity.ai.EntityAIHurtByTarget
+Import: net.minecraft.entity.ai.EntityAINearestAttackableTarget
+Import: net.minecraft.entity.ai.EntityAISwimming
+Import: net.minecraft.entity.ai.EntityAIWander
+Import: net.minecraft.entity.ai.EntityAIWatchClosest
+Import: net.minecraft.entity.monster.EntityCreeper
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.entity.monster.EntitySilverfish
+Import: net.minecraft.entity.monster.EntitySkeleton
+Import: net.minecraft.entity.monster.EntityWitherSkeleton
+Import: net.minecraft.entity.monster.EntityZombie
+Import: net.minecraft.entity.passive.EntityAnimal
+Import: net.minecraft.entity.passive.EntityOcelot
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.entity.projectile.EntityArrow
+Import: net.minecraft.entity.projectile.EntityDragonFireball
+Import: net.minecraft.entity.projectile.EntitySmallFireball
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.world.World
+End  Processing: mymod/_04_CreateACreature/CustomMob2.java
+
+Start Processing: mymod/_04_CreateACreature/CustomMob3.java
+FOUND CONSTR method mymod/_04_CreateACreature/CustomMob3/CustomMob3 (Lnet/minecraft/world/World;)V mymod/_04_CreateACreature/CustomMob3
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1397,1418]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLivingBase/applyEntityAttributes ()V[1429,1450]::applyEntityAttributes->func_110147_ax
+Rename method net/minecraft/entity/EntityLiving/initEntityAI ()V[1716,1728]::initEntityAI->func_184651_r
+Rename field net/minecraft/entity/EntityLiving/tasks[1742,1747]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1757,1764]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1824,1829]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1839,1846]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/tasks[1892,1897]::tasks->field_70714_bg
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[1907,1914]::addTask->func_75776_a
+Rename field net/minecraft/entity/EntityLiving/targetTasks[1992,2003]::targetTasks->field_70715_bh
+Rename method net/minecraft/entity/ai/EntityAITasks/addTask (ILnet/minecraft/entity/ai/EntityAIBase;)V[2007,2014]::addTask->func_75776_a
+Rename method net/minecraft/entity/EntityLiving/getLootTable ()Lnet/minecraft/util/ResourceLocation;[2126,2138]::getLootTable->func_184647_J
+Import: java.util.Random
+Import: mymod.Main
+Import: mymod.CodakidFiles.Codakid
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.ai.EntityAIAttackMelee
+Import: net.minecraft.entity.ai.EntityAIAttackRanged
+Import: net.minecraft.entity.ai.EntityAIBase
+Import: net.minecraft.entity.ai.EntityAIHurtByTarget
+Import: net.minecraft.entity.ai.EntityAINearestAttackableTarget
+Import: net.minecraft.entity.ai.EntityAISwimming
+Import: net.minecraft.entity.ai.EntityAIWander
+Import: net.minecraft.entity.ai.EntityAIWatchClosest
+Import: net.minecraft.entity.monster.EntityCreeper
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.entity.monster.EntitySkeleton
+Import: net.minecraft.entity.monster.EntityZombie
+Import: net.minecraft.entity.passive.EntityAnimal
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.entity.projectile.EntitySmallFireball
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.world.World
+End  Processing: mymod/_04_CreateACreature/CustomMob3.java
+
+Start Processing: mymod/_04_CreateACreature/RenderCustomMob.java
+FOUND CONSTR method mymod/_04_CreateACreature/RenderCustomMob/RenderCustomMob (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/_04_CreateACreature/RenderCustomMob
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1027,1035]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1253,1261]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[1518,1534]::getEntityTexture->func_110775_a
+Import: mymod.Main
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_04_CreateACreature/RenderCustomMob.java
+
+Start Processing: mymod/_04_CreateACreature/RenderCustomMob2.java
+FOUND CONSTR method mymod/_04_CreateACreature/RenderCustomMob2/RenderCustomMob2 (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/_04_CreateACreature/RenderCustomMob2
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1028,1036]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1254,1262]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[1520,1536]::getEntityTexture->func_110775_a
+Import: mymod.Main
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_04_CreateACreature/RenderCustomMob2.java
+
+Start Processing: mymod/_04_CreateACreature/RenderCustomMob3.java
+FOUND CONSTR method mymod/_04_CreateACreature/RenderCustomMob3/RenderCustomMob3 (Lnet/minecraft/client/renderer/entity/RenderManager;)V mymod/_04_CreateACreature/RenderCustomMob3
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1028,1036]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/doRender (Lnet/minecraft/entity/Entity;DDDFF)V[1254,1262]::doRender->func_76986_a
+Rename method net/minecraft/client/renderer/entity/Render/getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;[1520,1536]::getEntityTexture->func_110775_a
+Import: mymod.Main
+Import: net.minecraft.client.renderer.entity.Render
+Import: net.minecraft.client.renderer.entity.RenderLiving
+Import: net.minecraft.client.renderer.entity.RenderManager
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraftforge.fml.client.registry.IRenderFactory
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_04_CreateACreature/RenderCustomMob3.java
+
+Start Processing: mymod/_04_CreateACreature/myMob.java
+FOUND CONSTR method mymod/_04_CreateACreature/myMob/myMob ()V mymod/_04_CreateACreature/myMob
+Rename field net/minecraft/client/model/ModelBase/textureWidth[882,894]::textureWidth->field_78090_t
+Rename field net/minecraft/client/model/ModelBase/textureHeight[915,928]::textureHeight->field_78089_u
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1026,1042]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1087,1093]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1224,1240]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1285,1291]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1418,1434]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1481,1487]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1614,1630]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1675,1681]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1814,1830]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1874,1880]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2003,2019]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2059,2065]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2274,2290]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2335,2341]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2476,2492]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2536,2542]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2673,2689]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2737,2743]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2872,2888]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2934,2940]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[3068,3084]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[3129,3135]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[3263,3279]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[3321,3327]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[3407,3413]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3525,3531]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3569,3575]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3613,3619]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3657,3663]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3703,3709]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3744,3750]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3790,3796]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3836,3842]::render->func_78785_a
+Rename method net/minecraft/client/renderer/GlStateManager/pushMatrix ()V[3877,3887]::pushMatrix->func_179094_E
+Rename method net/minecraft/client/renderer/GlStateManager/translate (FFF)V[3917,3926]::translate->func_179109_b
+Rename field net/minecraft/client/model/ModelRenderer/offsetX[3950,3957]::offsetX->field_82906_o
+Rename field net/minecraft/client/model/ModelRenderer/offsetY[3984,3991]::offsetY->field_82908_p
+Rename field net/minecraft/client/model/ModelRenderer/offsetZ[4018,4025]::offsetZ->field_82907_q
+Rename method net/minecraft/client/renderer/GlStateManager/translate (FFF)V[4057,4066]::translate->func_179109_b
+Rename field net/minecraft/client/model/ModelRenderer/rotationPointX[4090,4104]::rotationPointX->field_78800_c
+Rename field net/minecraft/client/model/ModelRenderer/rotationPointY[4129,4143]::rotationPointY->field_78797_d
+Rename field net/minecraft/client/model/ModelRenderer/rotationPointZ[4168,4182]::rotationPointZ->field_78798_e
+Rename method net/minecraft/client/renderer/GlStateManager/scale (DDD)V[4212,4217]::scale->func_179139_a
+Rename method net/minecraft/client/renderer/GlStateManager/translate (FFF)V[4268,4277]::translate->func_179109_b
+Rename field net/minecraft/client/model/ModelRenderer/offsetX[4302,4309]::offsetX->field_82906_o
+Rename field net/minecraft/client/model/ModelRenderer/offsetY[4337,4344]::offsetY->field_82908_p
+Rename field net/minecraft/client/model/ModelRenderer/offsetZ[4372,4379]::offsetZ->field_82907_q
+Rename method net/minecraft/client/renderer/GlStateManager/translate (FFF)V[4411,4420]::translate->func_179109_b
+Rename field net/minecraft/client/model/ModelRenderer/rotationPointX[4445,4459]::rotationPointX->field_78800_c
+Rename field net/minecraft/client/model/ModelRenderer/rotationPointY[4485,4499]::rotationPointY->field_78797_d
+Rename field net/minecraft/client/model/ModelRenderer/rotationPointZ[4525,4539]::rotationPointZ->field_78798_e
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[4573,4579]::render->func_78785_a
+Rename method net/minecraft/client/renderer/GlStateManager/popMatrix ()V[4614,4623]::popMatrix->func_179121_F
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[4657,4663]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[4701,4707]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[4745,4751]::render->func_78785_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[4977,4989]::rotateAngleX->field_78795_f
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleY[5018,5030]::rotateAngleY->field_78796_g
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleZ[5059,5071]::rotateAngleZ->field_78808_h
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.model.ModelRenderer
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.client.renderer.GlStateManager
+Import: org.lwjgl.opengl.GL11
+End  Processing: mymod/_04_CreateACreature/myMob.java
+
+Start Processing: mymod/_04_CreateACreature/myMob2.java
+FOUND CONSTR method mymod/_04_CreateACreature/myMob2/myMob2 ()V mymod/_04_CreateACreature/myMob2
+Rename field net/minecraft/client/model/ModelBase/textureWidth[642,654]::textureWidth->field_78090_t
+Rename field net/minecraft/client/model/ModelBase/textureHeight[675,688]::textureHeight->field_78089_u
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[768,784]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[822,828]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1038,1054]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1093,1099]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1223,1239]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1279,1285]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1479,1495]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1536,1542]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1737,1753]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1794,1800]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1924,1940]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[1980,1986]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2201,2217]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2258,2264]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2389,2405]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2445,2451]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2573,2589]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2629,2635]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[2717,2723]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2827,2833]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2866,2872]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2906,2912]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2946,2952]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[2986,2992]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3026,3032]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3066,3072]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3106,3112]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[3146,3152]::render->func_78785_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[3378,3390]::rotateAngleX->field_78795_f
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleY[3419,3431]::rotateAngleY->field_78796_g
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleZ[3460,3472]::rotateAngleZ->field_78808_h
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.model.ModelRenderer
+Import: net.minecraft.entity.Entity
+End  Processing: mymod/_04_CreateACreature/myMob2.java
+
+Start Processing: mymod/_04_CreateACreature/myMob3.java
+FOUND CONSTR method mymod/_04_CreateACreature/myMob3/myMob3 ()V mymod/_04_CreateACreature/myMob3
+Rename field net/minecraft/client/model/ModelBase/textureWidth[1832,1844]::textureWidth->field_78090_t
+Rename field net/minecraft/client/model/ModelBase/textureHeight[1866,1879]::textureHeight->field_78089_u
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[1978,1994]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2040,2046]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2289,2305]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2350,2356]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2516,2532]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2576,2582]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[2734,2750]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[2789,2795]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[3012,3028]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[3079,3085]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[3299,3315]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[3359,3365]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[3498,3514]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[3559,3565]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[3708,3724]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[3767,3773]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[4003,4019]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[4066,4072]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[4203,4219]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[4264,4270]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[4504,4520]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[4570,4576]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[4790,4806]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[4851,4857]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[5037,5053]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[5091,5097]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[5315,5331]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[5383,5389]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[5502,5518]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[5554,5560]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[5758,5774]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[5815,5821]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[5955,5971]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[6016,6022]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[6224,6240]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[6281,6287]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[6490,6506]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[6550,6556]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[6761,6777]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[6812,6818]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[6968,6984]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[7035,7041]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[7173,7189]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[7235,7241]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[7402,7418]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[7461,7467]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[7628,7644]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[7689,7695]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[7901,7917]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[7961,7967]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[8189,8205]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[8249,8255]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[8367,8383]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[8419,8425]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[8627,8643]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[8688,8694]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[8854,8870]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[8916,8922]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[9065,9081]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[9130,9136]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[9270,9286]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[9333,9339]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[9495,9511]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[9553,9559]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[9705,9721]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[9771,9777]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[9915,9931]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[9977,9983]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[10118,10134]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[10181,10187]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[10380,10396]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[10442,10448]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[10578,10594]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[10630,10636]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/setRotationPoint (FFF)V[10858,10874]::setRotationPoint->func_78793_a
+Rename method net/minecraft/client/model/ModelRenderer/addBox (FFFIIIF)V[10947,10953]::addBox->func_78790_a
+Rename method net/minecraft/client/model/ModelRenderer/addChild (Lnet/minecraft/client/model/ModelRenderer;)V[11016,11024]::addChild->func_78792_a
+Rename method net/minecraft/client/model/ModelRenderer/addChild (Lnet/minecraft/client/model/ModelRenderer;)V[11066,11074]::addChild->func_78792_a
+Rename method net/minecraft/client/model/ModelBase/render (Lnet/minecraft/entity/Entity;FFFFFF)V[11133,11139]::render->func_78088_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11251,11257]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11296,11302]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11340,11346]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11380,11386]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11431,11437]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11475,11481]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11520,11526]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11563,11569]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11612,11618]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11657,11663]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11707,11713]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11752,11758]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11791,11797]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11844,11850]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11880,11886]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11926,11932]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[11968,11974]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12012,12018]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12048,12054]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12100,12106]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12145,12151]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12189,12195]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12234,12240]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12278,12284]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12322,12328]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12358,12364]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12403,12409]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12448,12454]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12499,12505]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12545,12551]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12588,12594]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12640,12646]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12688,12694]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12734,12740]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12780,12786]::render->func_78785_a
+Rename method net/minecraft/client/model/ModelRenderer/render (F)V[12816,12822]::render->func_78785_a
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleX[13048,13060]::rotateAngleX->field_78795_f
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleY[13089,13101]::rotateAngleY->field_78796_g
+Rename field net/minecraft/client/model/ModelRenderer/rotateAngleZ[13130,13142]::rotateAngleZ->field_78808_h
+Import: net.minecraft.client.model.ModelBase
+Import: net.minecraft.client.model.ModelRenderer
+Import: net.minecraft.entity.Entity
+End  Processing: mymod/_04_CreateACreature/myMob3.java
+
+Start Processing: mymod/_05_LuckyBlock/LuckyBlock.java
+FOUND CONSTR method mymod/_05_LuckyBlock/LuckyBlock/LuckyBlock ()V mymod/_05_LuckyBlock/LuckyBlock
+Rename field net/minecraft/block/material/Material/ROCK[1242,1246]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1267,1281]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[1294,1309]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/breakBlock (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V[1349,1359]::breakBlock->func_180663_b
+Rename field net/minecraft/init/Items/TIPPED_ARROW[1591,1603]::TIPPED_ARROW->field_185167_i
+Rename field net/minecraft/init/Blocks/IRON_BLOCK[1842,1852]::IRON_BLOCK->field_150339_S
+Rename method net/minecraft/world/World/setBlockState (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z[1907,1920]::setBlockState->func_175656_a
+Rename field net/minecraft/init/Blocks/LAVA[1933,1937]::LAVA->field_150353_l
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[1948,1963]::getDefaultState->func_176223_P
+Import: java.util.Random
+Import: mymod.Main
+Import: mymod.CodakidFiles.Codakid
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.item.EntityFallingBlock
+Import: net.minecraft.entity.item.EntityMinecartChest
+Import: net.minecraft.entity.item.EntityMinecartMobSpawner
+Import: net.minecraft.entity.item.EntityMinecartTNT
+Import: net.minecraft.entity.item.EntityTNTPrimed
+Import: net.minecraft.entity.monster.EntityCreeper
+Import: net.minecraft.entity.monster.EntityEnderman
+Import: net.minecraft.entity.monster.EntityGiantZombie
+Import: net.minecraft.entity.monster.EntityIllusionIllager
+Import: net.minecraft.entity.monster.EntitySpellcasterIllager
+Import: net.minecraft.entity.passive.EntityVillager
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.init.Items
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+Import: net.minecraft.world.storage.loot.LootTable
+Import: net.minecraftforge.event.LootTableLoadEvent
+End  Processing: mymod/_05_LuckyBlock/LuckyBlock.java
+
+Start Processing: mymod/_06_BrandNewBiomes/CustomBiome.java
+New Key: class net/minecraft/world/biome/Biome
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setBaseHeight (F)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1039,1052]::setBaseHeight->func_185398_c
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setHeightVariation (F)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1074,1092]::setHeightVariation->func_185400_d
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setWaterColor (I)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1109,1122]::setWaterColor->func_185402_a
+FOUND CONSTR method mymod/_06_BrandNewBiomes/CustomBiome/CustomBiome ()V mymod/_06_BrandNewBiomes/CustomBiome
+Rename field net/minecraft/world/biome/Biome/decorator[1289,1298]::decorator->field_76760_I
+Rename field net/minecraft/world/biome/BiomeDecorator/treesPerChunk[1303,1316]::treesPerChunk->field_76832_z
+Rename field net/minecraft/world/biome/Biome/decorator[1334,1343]::decorator->field_76760_I
+Rename field net/minecraft/world/biome/BiomeDecorator/bigMushroomsPerChunk[1348,1368]::bigMushroomsPerChunk->field_76807_J
+Rename field net/minecraft/world/biome/Biome/spawnableMonsterList[1383,1403]::spawnableMonsterList->field_76761_J
+Rename field net/minecraft/world/biome/Biome/spawnableCaveCreatureList[1414,1439]::spawnableCaveCreatureList->field_82914_M
+Rename field net/minecraft/world/biome/Biome/spawnableCreatureList[1445,1466]::spawnableCreatureList->field_76762_K
+Rename field net/minecraft/world/biome/Biome/spawnableCreatureList[1476,1497]::spawnableCreatureList->field_76762_K
+Rename method net/minecraft/world/biome/Biome/decorate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)V[1581,1589]::decorate->func_180624_a
+Rename method net/minecraft/world/biome/Biome/decorate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)V[1648,1656]::decorate->func_180624_a
+Rename field net/minecraft/init/Blocks/MAGMA[1745,1750]::MAGMA->field_189877_df
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[1761,1776]::getDefaultState->func_176223_P
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[1791,1799]::generate->func_180709_b
+Rename method net/minecraft/world/biome/Biome/genTerrainBlocks (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/chunk/ChunkPrimer;IID)V[1863,1879]::genTerrainBlocks->func_180622_a
+Rename field net/minecraft/world/biome/Biome/topBlock[2070,2078]::topBlock->field_76752_A
+Rename field net/minecraft/init/Blocks/CONCRETE_POWDER[2093,2108]::CONCRETE_POWDER->field_192444_dS
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2109,2124]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/withProperty (Lnet/minecraft/block/properties/IProperty;Ljava/lang/Comparable;)Lnet/minecraft/block/state/IBlockState;[2125,2137]::withProperty->func_177226_a
+Rename field net/minecraft/block/BlockColored/COLOR[2152,2157]::COLOR->field_176581_a
+Rename field net/minecraft/world/biome/Biome/fillerBlock[2199,2210]::fillerBlock->field_76753_B
+Rename field net/minecraft/init/Blocks/WOOL[2222,2226]::WOOL->field_150325_L
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2237,2252]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/withProperty (Lnet/minecraft/block/properties/IProperty;Ljava/lang/Comparable;)Lnet/minecraft/block/state/IBlockState;[2253,2265]::withProperty->func_177226_a
+Rename field net/minecraft/block/BlockColored/COLOR[2280,2285]::COLOR->field_176581_a
+Rename field net/minecraft/world/biome/Biome/topBlock[2339,2347]::topBlock->field_76752_A
+Rename field net/minecraft/init/Blocks/CONCRETE_POWDER[2362,2377]::CONCRETE_POWDER->field_192444_dS
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2378,2393]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/withProperty (Lnet/minecraft/block/properties/IProperty;Ljava/lang/Comparable;)Lnet/minecraft/block/state/IBlockState;[2394,2406]::withProperty->func_177226_a
+Rename field net/minecraft/block/BlockColored/COLOR[2421,2426]::COLOR->field_176581_a
+Rename field net/minecraft/world/biome/Biome/fillerBlock[2468,2479]::fillerBlock->field_76753_B
+Rename field net/minecraft/init/Blocks/RED_SANDSTONE[2491,2504]::RED_SANDSTONE->field_180395_cM
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2507,2522]::getDefaultState->func_176223_P
+Rename method net/minecraft/world/biome/Biome/generateBiomeTerrain (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/chunk/ChunkPrimer;IID)V[2545,2565]::generateBiomeTerrain->func_180628_b
+Import: java.awt.Color
+Import: java.util.Random
+Import: mymod.Main
+Import: mymod.CodakidFiles.CKWorldGenerater
+Import: net.minecraft.block.BlockColored
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.entity.monster.EntityMagmaCube
+Import: net.minecraft.entity.monster.EntityPigZombie
+Import: net.minecraft.entity.monster.EntitySilverfish
+Import: net.minecraft.entity.passive.EntityPig
+Import: net.minecraft.entity.passive.EntityWaterMob
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.item.EnumDyeColor
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraft.world.chunk.ChunkPrimer
+Import: net.minecraft.world.gen.feature.WorldGenerator
+Adding 2 imports
+        net.minecraft.world.biome.Biome.BiomeProperties
+        net.minecraft.world.biome.Biome.SpawnListEntry
+End  Processing: mymod/_06_BrandNewBiomes/CustomBiome.java
+
+Start Processing: mymod/_06_BrandNewBiomes/CustomBiome2.java
+New Key: class net/minecraft/world/biome/Biome
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setRainDisabled ()Lnet/minecraft/world/biome/Biome$BiomeProperties;[1387,1402]::setRainDisabled->func_185396_a
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setTemperature (F)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1418,1432]::setTemperature->func_185410_a
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setSnowEnabled ()Lnet/minecraft/world/biome/Biome$BiomeProperties;[1452,1466]::setSnowEnabled->func_185411_b
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setBaseHeight (F)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1483,1496]::setBaseHeight->func_185398_c
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setHeightVariation (F)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1518,1536]::setHeightVariation->func_185400_d
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setWaterColor (I)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1553,1566]::setWaterColor->func_185402_a
+FOUND CONSTR method mymod/_06_BrandNewBiomes/CustomBiome2/CustomBiome2 ()V mymod/_06_BrandNewBiomes/CustomBiome2
+Rename field net/minecraft/world/biome/Biome/decorator[1741,1750]::decorator->field_76760_I
+Rename field net/minecraft/world/biome/BiomeDecorator/treesPerChunk[1755,1768]::treesPerChunk->field_76832_z
+Rename field net/minecraft/world/biome/Biome/decorator[1784,1793]::decorator->field_76760_I
+Rename field net/minecraft/world/biome/BiomeDecorator/flowersPerChunk[1798,1813]::flowersPerChunk->field_76802_A
+Rename field net/minecraft/world/biome/Biome/spawnableMonsterList[1831,1851]::spawnableMonsterList->field_76761_J
+Rename field net/minecraft/world/biome/Biome/spawnableCaveCreatureList[1862,1887]::spawnableCaveCreatureList->field_82914_M
+Rename field net/minecraft/world/biome/Biome/spawnableCreatureList[1893,1914]::spawnableCreatureList->field_76762_K
+Rename field net/minecraft/world/biome/Biome/spawnableCreatureList[1924,1945]::spawnableCreatureList->field_76762_K
+Rename field net/minecraft/world/biome/Biome/spawnableMonsterList[2006,2026]::spawnableMonsterList->field_76761_J
+Rename field net/minecraft/world/biome/Biome/spawnableCreatureList[2085,2106]::spawnableCreatureList->field_76762_K
+Rename method net/minecraft/world/biome/Biome/getSkyColorByTemp (F)I[2169,2186]::getSkyColorByTemp->func_76731_a
+Rename method net/minecraft/world/biome/Biome/getDefaultTemperature ()F[2182,2203]::getDefaultTemperature->func_185353_n
+Rename method net/minecraft/world/biome/Biome/decorate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)V[2233,2241]::decorate->func_180624_a
+Rename method net/minecraft/world/biome/Biome/decorate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)V[2300,2308]::decorate->func_180624_a
+Rename field net/minecraft/init/Blocks/PACKED_ICE[2397,2407]::PACKED_ICE->field_150403_cj
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2413,2428]::getDefaultState->func_176223_P
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[2443,2451]::generate->func_180709_b
+Rename method net/minecraft/world/biome/Biome/genTerrainBlocks (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/chunk/ChunkPrimer;IID)V[2515,2531]::genTerrainBlocks->func_180622_a
+Rename field net/minecraft/world/biome/Biome/topBlock[2722,2730]::topBlock->field_76752_A
+Rename field net/minecraft/init/Blocks/SNOW[2745,2749]::SNOW->field_150433_aE
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2761,2776]::getDefaultState->func_176223_P
+Rename field net/minecraft/world/biome/Biome/fillerBlock[2787,2798]::fillerBlock->field_76753_B
+Rename field net/minecraft/init/Blocks/STONE[2810,2815]::STONE->field_150348_b
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2825,2840]::getDefaultState->func_176223_P
+Rename field net/minecraft/world/biome/Biome/topBlock[2867,2875]::topBlock->field_76752_A
+Rename field net/minecraft/init/Blocks/SNOW[2890,2894]::SNOW->field_150433_aE
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2906,2921]::getDefaultState->func_176223_P
+Rename field net/minecraft/world/biome/Biome/fillerBlock[2931,2942]::fillerBlock->field_76753_B
+Rename field net/minecraft/init/Blocks/ICE[2954,2957]::ICE->field_150432_aD
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2970,2985]::getDefaultState->func_176223_P
+Rename method net/minecraft/world/biome/Biome/generateBiomeTerrain (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/chunk/ChunkPrimer;IID)V[3007,3027]::generateBiomeTerrain->func_180628_b
+Import: java.awt.Color
+Import: java.util.Random
+Import: javax.swing.text.html.parser.Entity
+Import: mymod.Main
+Import: mymod.CodakidFiles.CKWorldGenerater
+Import: mymod._01_ForgeYourSword.CustomMonster2
+Import: net.minecraft.block.BlockColored
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.entity.monster.EntityMagmaCube
+Import: net.minecraft.entity.monster.EntityPigZombie
+Import: net.minecraft.entity.monster.EntityPolarBear
+Import: net.minecraft.entity.monster.EntitySilverfish
+Import: net.minecraft.entity.monster.EntitySnowman
+Import: net.minecraft.entity.monster.EntityStray
+Import: net.minecraft.entity.passive.EntityPig
+Import: net.minecraft.entity.passive.EntityRabbit
+Import: net.minecraft.entity.passive.EntityWaterMob
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.item.EnumDyeColor
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraft.world.chunk.ChunkPrimer
+Import: net.minecraft.world.gen.feature.WorldGenerator
+Adding 2 imports
+        net.minecraft.world.biome.Biome.BiomeProperties
+        net.minecraft.world.biome.Biome.SpawnListEntry
+End  Processing: mymod/_06_BrandNewBiomes/CustomBiome2.java
+
+Start Processing: mymod/_06_BrandNewBiomes/CustomBiome3.java
+New Key: class net/minecraft/world/biome/Biome
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setBaseHeight (F)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1505,1518]::setBaseHeight->func_185398_c
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setHeightVariation (F)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1540,1558]::setHeightVariation->func_185400_d
+Rename method net/minecraft/world/biome/Biome/BiomeProperties/setWaterColor (I)Lnet/minecraft/world/biome/Biome$BiomeProperties;[1575,1588]::setWaterColor->func_185402_a
+FOUND CONSTR method mymod/_06_BrandNewBiomes/CustomBiome3/CustomBiome3 ()V mymod/_06_BrandNewBiomes/CustomBiome3
+Rename field net/minecraft/world/biome/Biome/decorator[1757,1766]::decorator->field_76760_I
+Rename field net/minecraft/world/biome/BiomeDecorator/treesPerChunk[1771,1784]::treesPerChunk->field_76832_z
+Rename field net/minecraft/world/biome/Biome/decorator[1800,1809]::decorator->field_76760_I
+Rename field net/minecraft/world/biome/BiomeDecorator/flowersPerChunk[1814,1829]::flowersPerChunk->field_76802_A
+Rename field net/minecraft/world/biome/Biome/spawnableMonsterList[1847,1867]::spawnableMonsterList->field_76761_J
+Rename field net/minecraft/world/biome/Biome/spawnableCaveCreatureList[1878,1903]::spawnableCaveCreatureList->field_82914_M
+Rename field net/minecraft/world/biome/Biome/spawnableCreatureList[1909,1930]::spawnableCreatureList->field_76762_K
+Rename field net/minecraft/world/biome/Biome/spawnableMonsterList[1940,1960]::spawnableMonsterList->field_76761_J
+Rename field net/minecraft/world/biome/Biome/spawnableMonsterList[2028,2048]::spawnableMonsterList->field_76761_J
+Rename field net/minecraft/world/biome/Biome/spawnableCreatureList[2112,2133]::spawnableCreatureList->field_76762_K
+Rename method net/minecraft/world/biome/Biome/getSkyColorByTemp (F)I[2193,2210]::getSkyColorByTemp->func_76731_a
+Rename method net/minecraft/world/biome/Biome/getDefaultTemperature ()F[2206,2227]::getDefaultTemperature->func_185353_n
+Rename method net/minecraft/world/biome/Biome/decorate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)V[2257,2265]::decorate->func_180624_a
+Rename method net/minecraft/world/biome/Biome/decorate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)V[2324,2332]::decorate->func_180624_a
+Rename field net/minecraft/init/Blocks/BONE_BLOCK[2421,2431]::BONE_BLOCK->field_189880_di
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2437,2452]::getDefaultState->func_176223_P
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[2467,2475]::generate->func_180709_b
+Rename method net/minecraft/world/biome/Biome/genTerrainBlocks (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/chunk/ChunkPrimer;IID)V[2539,2555]::genTerrainBlocks->func_180622_a
+Rename field net/minecraft/world/biome/Biome/topBlock[2746,2754]::topBlock->field_76752_A
+Rename field net/minecraft/init/Blocks/CONCRETE_POWDER[2769,2784]::CONCRETE_POWDER->field_192444_dS
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2785,2800]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/withProperty (Lnet/minecraft/block/properties/IProperty;Ljava/lang/Comparable;)Lnet/minecraft/block/state/IBlockState;[2801,2813]::withProperty->func_177226_a
+Rename field net/minecraft/block/BlockColored/COLOR[2828,2833]::COLOR->field_176581_a
+Rename field net/minecraft/world/biome/Biome/fillerBlock[2875,2886]::fillerBlock->field_76753_B
+Rename field net/minecraft/init/Blocks/RED_SANDSTONE[2898,2911]::RED_SANDSTONE->field_180395_cM
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2914,2929]::getDefaultState->func_176223_P
+Rename field net/minecraft/world/biome/Biome/topBlock[2956,2964]::topBlock->field_76752_A
+Rename field net/minecraft/init/Blocks/SNOW[2979,2983]::SNOW->field_150433_aE
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2995,3010]::getDefaultState->func_176223_P
+Rename field net/minecraft/world/biome/Biome/fillerBlock[3020,3031]::fillerBlock->field_76753_B
+Rename field net/minecraft/init/Blocks/ICE[3043,3046]::ICE->field_150432_aD
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[3059,3074]::getDefaultState->func_176223_P
+Rename method net/minecraft/world/biome/Biome/generateBiomeTerrain (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/chunk/ChunkPrimer;IID)V[3096,3116]::generateBiomeTerrain->func_180628_b
+Import: java.awt.Color
+Import: java.util.Random
+Import: javax.swing.text.html.parser.Entity
+Import: mymod.Main
+Import: mymod.CodakidFiles.CKWorldGenerater
+Import: mymod._01_ForgeYourSword.CustomMonster2
+Import: net.minecraft.block.BlockColored
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.entity.EntityLiving
+Import: net.minecraft.entity.monster.EntityMagmaCube
+Import: net.minecraft.entity.monster.EntityPigZombie
+Import: net.minecraft.entity.monster.EntityPolarBear
+Import: net.minecraft.entity.monster.EntitySilverfish
+Import: net.minecraft.entity.monster.EntitySnowman
+Import: net.minecraft.entity.monster.EntityStray
+Import: net.minecraft.entity.monster.EntityWitherSkeleton
+Import: net.minecraft.entity.passive.EntityOcelot
+Import: net.minecraft.entity.passive.EntityPig
+Import: net.minecraft.entity.passive.EntityRabbit
+Import: net.minecraft.entity.passive.EntityWaterMob
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.item.EnumDyeColor
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraft.world.chunk.ChunkPrimer
+Import: net.minecraft.world.gen.feature.WorldGenerator
+Adding 2 imports
+        net.minecraft.world.biome.Biome.BiomeProperties
+        net.minecraft.world.biome.Biome.SpawnListEntry
+End  Processing: mymod/_06_BrandNewBiomes/CustomBiome3.java
+
+Start Processing: mymod/_07_BuildAndBoom/EntityBuildGrenade.java
+FOUND CONSTR method mymod/_07_BuildAndBoom/EntityBuildGrenade/EntityBuildGrenade (Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)V mymod/_07_BuildAndBoom/EntityBuildGrenade
+FOUND CONSTR method mymod/_07_BuildAndBoom/EntityBuildGrenade/EntityBuildGrenade (Lnet/minecraft/world/World;)V mymod/_07_BuildAndBoom/EntityBuildGrenade
+Rename method net/minecraft/entity/projectile/EntityThrowable/onImpact (Lnet/minecraft/util/math/RayTraceResult;)V[745,753]::onImpact->func_70184_a
+Rename field net/minecraft/entity/Entity/world[796,801]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[810,818]::isRemote->field_72995_K
+Rename method net/minecraft/entity/Entity/setDead ()V[836,843]::setDead->func_70106_y
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.entity.projectile.EntityThrowable
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.nbt.NBTTagCompound
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.util.math.RayTraceResult
+Import: net.minecraft.world.World
+End  Processing: mymod/_07_BuildAndBoom/EntityBuildGrenade.java
+
+Start Processing: mymod/_07_BuildAndBoom/EntityClusterGrenade.java
+FOUND CONSTR method mymod/_07_BuildAndBoom/EntityClusterGrenade/EntityClusterGrenade (Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)V mymod/_07_BuildAndBoom/EntityClusterGrenade
+FOUND CONSTR method mymod/_07_BuildAndBoom/EntityClusterGrenade/EntityClusterGrenade (Lnet/minecraft/world/World;)V mymod/_07_BuildAndBoom/EntityClusterGrenade
+Rename method net/minecraft/entity/projectile/EntityThrowable/onImpact (Lnet/minecraft/util/math/RayTraceResult;)V[605,613]::onImpact->func_70184_a
+Rename field net/minecraft/entity/Entity/world[656,661]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[670,678]::isRemote->field_72995_K
+Rename method net/minecraft/entity/Entity/setDead ()V[696,703]::setDead->func_70106_y
+Import: java.util.Random
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.projectile.EntityThrowable
+Import: net.minecraft.nbt.NBTTagCompound
+Import: net.minecraft.util.math.RayTraceResult
+Import: net.minecraft.world.World
+End  Processing: mymod/_07_BuildAndBoom/EntityClusterGrenade.java
+
+Start Processing: mymod/_07_BuildAndBoom/EntityClusterGrenadeFragment.java
+FOUND CONSTR method mymod/_07_BuildAndBoom/EntityClusterGrenadeFragment/EntityClusterGrenadeFragment (Lnet/minecraft/world/World;DDDDDD)V mymod/_07_BuildAndBoom/EntityClusterGrenadeFragment
+Rename method net/minecraft/entity/Entity/setVelocity (DDD)V[537,548]::setVelocity->func_70016_h
+FOUND CONSTR method mymod/_07_BuildAndBoom/EntityClusterGrenadeFragment/EntityClusterGrenadeFragment (Lnet/minecraft/world/World;)V mymod/_07_BuildAndBoom/EntityClusterGrenadeFragment
+Rename method net/minecraft/entity/projectile/EntityThrowable/onImpact (Lnet/minecraft/util/math/RayTraceResult;)V[684,692]::onImpact->func_70184_a
+Rename field net/minecraft/entity/Entity/world[730,735]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[744,752]::isRemote->field_72995_K
+Rename method net/minecraft/entity/Entity/setDead ()V[770,777]::setDead->func_70106_y
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.projectile.EntityThrowable
+Import: net.minecraft.nbt.NBTTagCompound
+Import: net.minecraft.util.math.RayTraceResult
+Import: net.minecraft.world.World
+End  Processing: mymod/_07_BuildAndBoom/EntityClusterGrenadeFragment.java
+
+Start Processing: mymod/_07_BuildAndBoom/EntityGrenade.java
+FOUND CONSTR method mymod/_07_BuildAndBoom/EntityGrenade/EntityGrenade (Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)V mymod/_07_BuildAndBoom/EntityGrenade
+FOUND CONSTR method mymod/_07_BuildAndBoom/EntityGrenade/EntityGrenade (Lnet/minecraft/world/World;)V mymod/_07_BuildAndBoom/EntityGrenade
+Rename method net/minecraft/entity/projectile/EntityThrowable/onImpact (Lnet/minecraft/util/math/RayTraceResult;)V[606,614]::onImpact->func_70184_a
+Rename field net/minecraft/entity/Entity/world[657,662]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[671,679]::isRemote->field_72995_K
+Rename method net/minecraft/entity/Entity/setDead ()V[697,704]::setDead->func_70106_y
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.entity.projectile.EntityThrowable
+Import: net.minecraft.nbt.NBTTagCompound
+Import: net.minecraft.util.math.RayTraceResult
+Import: net.minecraft.world.World
+End  Processing: mymod/_07_BuildAndBoom/EntityGrenade.java
+
+Start Processing: mymod/_08_HouseInABox/StructureBlock.java
+Rename field net/minecraft/init/Blocks/GOLD_BLOCK[534,544]::GOLD_BLOCK->field_150340_R
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[549,564]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/STAINED_GLASS[591,604]::STAINED_GLASS->field_150399_cn
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[607,622]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/withProperty (Lnet/minecraft/block/properties/IProperty;Ljava/lang/Comparable;)Lnet/minecraft/block/state/IBlockState;[623,635]::withProperty->func_177226_a
+Rename field net/minecraft/block/BlockColored/COLOR[650,655]::COLOR->field_176581_a
+Rename field net/minecraft/init/Blocks/BREWING_STAND[714,727]::BREWING_STAND->field_150382_bo
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[730,745]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/OBSIDIAN[772,780]::OBSIDIAN->field_150343_Z
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[787,802]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/DIAMOND_BLOCK[829,842]::DIAMOND_BLOCK->field_150484_ah
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[845,860]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/COAL_BLOCK[887,897]::COAL_BLOCK->field_150402_ci
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[903,918]::getDefaultState->func_176223_P
+FOUND CONSTR method mymod/_08_HouseInABox/StructureBlock/StructureBlock ()V mymod/_08_HouseInABox/StructureBlock
+Rename field net/minecraft/block/material/Material/ROCK[1054,1058]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1079,1093]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[1106,1121]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/onBlockAdded (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V[1999,2011]::onBlockAdded->func_176213_c
+Rename method net/minecraft/world/World/setBlockState (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z[2277,2290]::setBlockState->func_175656_a
+Rename method net/minecraft/util/math/BlockPos/add (III)Lnet/minecraft/util/math/BlockPos;[2295,2298]::add->func_177982_a
+Import: java.awt.Color
+Import: java.util.ArrayList
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.BlockColored
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.item.EnumDyeColor
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+End  Processing: mymod/_08_HouseInABox/StructureBlock.java
+
+Start Processing: mymod/_09_EpicWeapons/CowGun.java
+FOUND CONSTR method mymod/_09_EpicWeapons/CowGun/CowGun ()V mymod/_09_EpicWeapons/CowGun
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[609,623]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[635,641]::COMBAT->field_78037_j
+Rename method net/minecraft/item/Item/onItemRightClick (Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;[703,719]::onItemRightClick->func_77659_a
+Rename field net/minecraft/world/World/isRemote[819,827]::isRemote->field_72995_K
+Rename method net/minecraft/entity/Entity/setPosition (DDD)V[971,982]::setPosition->func_70107_b
+Rename field net/minecraft/entity/Entity/posX[991,995]::posX->field_70165_t
+Rename field net/minecraft/entity/Entity/posY[1013,1017]::posY->field_70163_u
+Rename field net/minecraft/entity/Entity/posZ[1035,1039]::posZ->field_70161_v
+Rename field net/minecraft/entity/Entity/motionX[1072,1079]::motionX->field_70159_w
+Rename method net/minecraft/entity/Entity/getLookVec ()Lnet/minecraft/util/math/Vec3d;[1095,1105]::getLookVec->func_70040_Z
+Rename field net/minecraft/util/math/Vec3d/x[1110,1111]::x->field_72450_a
+Rename field net/minecraft/entity/Entity/motionY[1172,1179]::motionY->field_70181_x
+Rename method net/minecraft/entity/Entity/getLookVec ()Lnet/minecraft/util/math/Vec3d;[1195,1205]::getLookVec->func_70040_Z
+Rename field net/minecraft/util/math/Vec3d/y[1210,1211]::y->field_72448_b
+Rename field net/minecraft/entity/Entity/motionZ[1272,1279]::motionZ->field_70179_y
+Rename method net/minecraft/entity/Entity/getLookVec ()Lnet/minecraft/util/math/Vec3d;[1295,1305]::getLookVec->func_70040_Z
+Rename field net/minecraft/util/math/Vec3d/z[1310,1311]::z->field_72449_c
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[1364,1375]::spawnEntity->func_72838_d
+Rename method net/minecraft/entity/EntityLivingBase/getHeldItem (Lnet/minecraft/util/EnumHand;)Lnet/minecraft/item/ItemStack;[1471,1482]::getHeldItem->func_184586_b
+Import: java.util.Random
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.item.EntityTNTPrimed
+Import: net.minecraft.entity.monster.EntityMagmaCube
+Import: net.minecraft.entity.passive.EntityCow
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.util.ActionResult
+Import: net.minecraft.util.EnumActionResult
+Import: net.minecraft.util.EnumHand
+Import: net.minecraft.world.World
+End  Processing: mymod/_09_EpicWeapons/CowGun.java
+
+Start Processing: mymod/_09_EpicWeapons/EntityLavaTrail.java
+FOUND CONSTR method mymod/_09_EpicWeapons/EntityLavaTrail/EntityLavaTrail (Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)V mymod/_09_EpicWeapons/EntityLavaTrail
+Rename method net/minecraft/entity/Entity/onUpdate ()V[569,577]::onUpdate->func_70071_h_
+Rename method net/minecraft/entity/Entity/onUpdate ()V[596,604]::onUpdate->func_70071_h_
+Rename field net/minecraft/entity/Entity/world[616,621]::world->field_70170_p
+Rename method net/minecraft/world/World/setBlockState (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z[630,643]::setBlockState->func_175656_a
+Rename field net/minecraft/entity/Entity/lastTickPosX[662,674]::lastTickPosX->field_70142_S
+Rename field net/minecraft/entity/Entity/lastTickPosY[682,694]::lastTickPosY->field_70137_T
+Rename field net/minecraft/entity/Entity/lastTickPosZ[702,714]::lastTickPosZ->field_70136_U
+Rename field net/minecraft/init/Blocks/FLOWING_WATER[725,738]::FLOWING_WATER->field_150358_i
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[740,755]::getDefaultState->func_176223_P
+Rename method net/minecraft/entity/projectile/EntityThrowable/onImpact (Lnet/minecraft/util/math/RayTraceResult;)V[793,801]::onImpact->func_70184_a
+Rename method net/minecraft/entity/Entity/setDead ()V[839,846]::setDead->func_70106_y
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.projectile.EntityThrowable
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.nbt.NBTTagCompound
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.util.math.RayTraceResult
+Import: net.minecraft.world.World
+End  Processing: mymod/_09_EpicWeapons/EntityLavaTrail.java
+
+Start Processing: mymod/_09_EpicWeapons/LavaLauncher.java
+FOUND CONSTR method mymod/_09_EpicWeapons/LavaLauncher/LavaLauncher ()V mymod/_09_EpicWeapons/LavaLauncher
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[536,550]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[562,568]::COMBAT->field_78037_j
+Rename method net/minecraft/item/Item/onItemRightClick (Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;[630,646]::onItemRightClick->func_77659_a
+Rename field net/minecraft/world/World/isRemote[716,724]::isRemote->field_72995_K
+Rename method net/minecraft/entity/projectile/EntityThrowable/shoot (Lnet/minecraft/entity/Entity;FFFFF)V[816,821]::shoot->func_184538_a
+Rename field net/minecraft/entity/Entity/rotationPitch[845,858]::rotationPitch->field_70125_A
+Rename field net/minecraft/entity/Entity/rotationYaw[867,878]::rotationYaw->field_70177_z
+Rename method net/minecraft/entity/Entity/getEyeHeight ()F[889,901]::getEyeHeight->func_70047_e
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[927,938]::spawnEntity->func_72838_d
+Rename method net/minecraft/entity/EntityLivingBase/getHeldItem (Lnet/minecraft/util/EnumHand;)Lnet/minecraft/item/ItemStack;[1025,1036]::getHeldItem->func_184586_b
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.effect.EntityLightningBolt
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.util.ActionResult
+Import: net.minecraft.util.EnumActionResult
+Import: net.minecraft.util.EnumHand
+Import: net.minecraft.util.math.Vec3d
+Import: net.minecraft.world.World
+End  Processing: mymod/_09_EpicWeapons/LavaLauncher.java
+
+Start Processing: mymod/_09_EpicWeapons/ThunderHammer.java
+FOUND CONSTR method mymod/_09_EpicWeapons/ThunderHammer/ThunderHammer ()V mymod/_09_EpicWeapons/ThunderHammer
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[600,614]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[626,632]::COMBAT->field_78037_j
+Rename method net/minecraft/item/Item/onItemRightClick (Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;[694,710]::onItemRightClick->func_77659_a
+Rename method net/minecraft/entity/Entity/rayTrace (DF)Lnet/minecraft/util/math/RayTraceResult;[796,804]::rayTrace->func_174822_a
+Rename field net/minecraft/util/math/RayTraceResult/hitVec[820,826]::hitVec->field_72307_f
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[846,857]::spawnEntity->func_72838_d
+Rename field net/minecraft/util/math/Vec3d/x[901,902]::x->field_72450_a
+Rename field net/minecraft/util/math/Vec3d/y[925,926]::y->field_72448_b
+Rename field net/minecraft/util/math/Vec3d/z[949,950]::z->field_72449_c
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[984,995]::spawnEntity->func_72838_d
+Rename field net/minecraft/util/math/Vec3d/x[1039,1040]::x->field_72450_a
+Rename field net/minecraft/util/math/Vec3d/y[1063,1064]::y->field_72448_b
+Rename field net/minecraft/util/math/Vec3d/z[1087,1088]::z->field_72449_c
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[1122,1133]::spawnEntity->func_72838_d
+Rename field net/minecraft/util/math/Vec3d/x[1177,1178]::x->field_72450_a
+Rename field net/minecraft/util/math/Vec3d/y[1201,1202]::y->field_72448_b
+Rename field net/minecraft/util/math/Vec3d/z[1225,1226]::z->field_72449_c
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[1260,1271]::spawnEntity->func_72838_d
+Rename field net/minecraft/util/math/Vec3d/x[1315,1316]::x->field_72450_a
+Rename field net/minecraft/util/math/Vec3d/y[1339,1340]::y->field_72448_b
+Rename field net/minecraft/util/math/Vec3d/z[1363,1364]::z->field_72449_c
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[1398,1409]::spawnEntity->func_72838_d
+Rename field net/minecraft/util/math/Vec3d/x[1453,1454]::x->field_72450_a
+Rename field net/minecraft/util/math/Vec3d/y[1477,1478]::y->field_72448_b
+Rename field net/minecraft/util/math/Vec3d/z[1501,1502]::z->field_72449_c
+Rename method net/minecraft/world/World/createExplosion (Lnet/minecraft/entity/Entity;DDDFZ)Lnet/minecraft/world/Explosion;[1536,1551]::createExplosion->func_72876_a
+Rename field net/minecraft/util/math/Vec3d/x[1566,1567]::x->field_72450_a
+Rename field net/minecraft/util/math/Vec3d/y[1590,1591]::y->field_72448_b
+Rename field net/minecraft/util/math/Vec3d/z[1614,1615]::z->field_72449_c
+Rename method net/minecraft/entity/EntityLivingBase/getHeldItem (Lnet/minecraft/util/EnumHand;)Lnet/minecraft/item/ItemStack;[1709,1720]::getHeldItem->func_184586_b
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.effect.EntityLightningBolt
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemSword
+Import: net.minecraft.util.ActionResult
+Import: net.minecraft.util.EnumActionResult
+Import: net.minecraft.util.EnumHand
+Import: net.minecraft.util.math.Vec3d
+Import: net.minecraft.world.World
+End  Processing: mymod/_09_EpicWeapons/ThunderHammer.java
+
+Start Processing: mymod/_10_MyXtra/CustomAxe3.java
+FOUND CONSTR method mymod/_10_MyXtra/CustomAxe3/CustomAxe3 ()V mymod/_10_MyXtra/CustomAxe3
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[249,263]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[275,280]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemAxe
+End  Processing: mymod/_10_MyXtra/CustomAxe3.java
+
+Start Processing: mymod/_10_MyXtra/CustomIngot2.java
+FOUND CONSTR method mymod/_10_MyXtra/CustomIngot2/CustomIngot2 ()V mymod/_10_MyXtra/CustomIngot2
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[194,208]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MATERIALS[220,229]::MATERIALS->field_78035_l
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+End  Processing: mymod/_10_MyXtra/CustomIngot2.java
+
+Start Processing: mymod/_10_MyXtra/CustomOre2.java
+FOUND CONSTR method mymod/_10_MyXtra/CustomOre2/CustomOre2 ()V mymod/_10_MyXtra/CustomOre2
+Rename field net/minecraft/block/material/Material/ROCK[603,607]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[628,642]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[655,670]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[679,690]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[745,758]::setLightLevel->func_149715_a
+Import: mymod.Main
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.BlockIce
+Import: net.minecraft.block.BlockOre
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_10_MyXtra/CustomOre2.java
+
+Start Processing: mymod/_10_MyXtra/CustomPickaxe3.java
+FOUND CONSTR method mymod/_10_MyXtra/CustomPickaxe3/CustomPickaxe3 ()V mymod/_10_MyXtra/CustomPickaxe3
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[255,269]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[281,286]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemPickaxe
+End  Processing: mymod/_10_MyXtra/CustomPickaxe3.java
+
+Start Processing: mymod/_10_MyXtra/CustomShovel3.java
+FOUND CONSTR method mymod/_10_MyXtra/CustomShovel3/CustomShovel3 ()V mymod/_10_MyXtra/CustomShovel3
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[255,269]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[281,286]::TOOLS->field_78040_i
+Import: mymod.Main
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemSpade
+End  Processing: mymod/_10_MyXtra/CustomShovel3.java
+
+Start Processing: mymod/_10_MyXtra/CustomSword3.java
+FOUND CONSTR method mymod/_10_MyXtra/CustomSword3/CustomSword3 ()V mymod/_10_MyXtra/CustomSword3
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[772,786]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[798,804]::COMBAT->field_78037_j
+Import: mymod.Main
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemSword
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_10_MyXtra/CustomSword3.java
+
+Start Processing: mymod/_10_MyXtra/CustomSword4.java
+FOUND CONSTR method mymod/_10_MyXtra/CustomSword4/CustomSword4 ()V mymod/_10_MyXtra/CustomSword4
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1262,1276]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[1288,1294]::COMBAT->field_78037_j
+Rename field net/minecraft/item/ItemTool/attackSpeed[1336,1347]::attackSpeed->field_185065_c
+Rename method net/minecraft/item/Item/onItemRightClick (Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;[1406,1422]::onItemRightClick->func_77659_a
+Rename field net/minecraft/world/World/isRemote[1518,1526]::isRemote->field_72995_K
+Rename method net/minecraft/entity/Entity/setPosition (DDD)V[1661,1672]::setPosition->func_70107_b
+Rename field net/minecraft/entity/Entity/posX[1681,1685]::posX->field_70165_t
+Rename field net/minecraft/entity/Entity/posY[1703,1707]::posY->field_70163_u
+Rename field net/minecraft/entity/Entity/posZ[1725,1729]::posZ->field_70161_v
+Rename field net/minecraft/entity/Entity/motionX[1760,1767]::motionX->field_70159_w
+Rename method net/minecraft/entity/Entity/getLookVec ()Lnet/minecraft/util/math/Vec3d;[1783,1793]::getLookVec->func_70040_Z
+Rename field net/minecraft/util/math/Vec3d/x[1798,1799]::x->field_72450_a
+Rename field net/minecraft/entity/Entity/motionY[1858,1865]::motionY->field_70181_x
+Rename method net/minecraft/entity/Entity/getLookVec ()Lnet/minecraft/util/math/Vec3d;[1881,1891]::getLookVec->func_70040_Z
+Rename field net/minecraft/util/math/Vec3d/y[1896,1897]::y->field_72448_b
+Rename field net/minecraft/entity/Entity/motionZ[1956,1963]::motionZ->field_70179_y
+Rename method net/minecraft/entity/Entity/getLookVec ()Lnet/minecraft/util/math/Vec3d;[1979,1989]::getLookVec->func_70040_Z
+Rename field net/minecraft/util/math/Vec3d/z[1994,1995]::z->field_72449_c
+Rename method net/minecraft/world/World/spawnEntity (Lnet/minecraft/entity/Entity;)Z[2048,2059]::spawnEntity->func_72838_d
+Rename method net/minecraft/entity/EntityLivingBase/getHeldItem (Lnet/minecraft/util/EnumHand;)Lnet/minecraft/item/ItemStack;[2153,2164]::getHeldItem->func_184586_b
+Import: java.util.Random
+Import: mymod.Main
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.item.EntityFallingBlock
+Import: net.minecraft.entity.item.EntityTNTPrimed
+Import: net.minecraft.entity.monster.EntityMob
+Import: net.minecraft.entity.monster.EntitySnowman
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.entity.projectile.EntitySnowball
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemPickaxe
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemSword
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraft.util.ActionResult
+Import: net.minecraft.util.EnumActionResult
+Import: net.minecraft.util.EnumHand
+Import: net.minecraft.world.World
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_10_MyXtra/CustomSword4.java
+
+Start Processing: mymod/_10_MyXtra/FrozenBlock.java
+FOUND CONSTR method mymod/_10_MyXtra/FrozenBlock/FrozenBlock ()V mymod/_10_MyXtra/FrozenBlock
+Rename field net/minecraft/block/material/Material/ROCK[307,311]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[332,346]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[359,374]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[383,394]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[449,462]::setLightLevel->func_149715_a
+Import: mymod.Main
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemBlock
+End  Processing: mymod/_10_MyXtra/FrozenBlock.java
+
+Start Processing: mymod/_10_MyXtra/StructureBlock2.java
+Rename field net/minecraft/init/Blocks/LAPIS_BLOCK[504,515]::LAPIS_BLOCK->field_150368_y
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[519,534]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/STAINED_GLASS[562,575]::STAINED_GLASS->field_150399_cn
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[578,593]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/withProperty (Lnet/minecraft/block/properties/IProperty;Ljava/lang/Comparable;)Lnet/minecraft/block/state/IBlockState;[594,606]::withProperty->func_177226_a
+Rename field net/minecraft/block/BlockColored/COLOR[621,626]::COLOR->field_176581_a
+Rename field net/minecraft/init/Blocks/BREWING_STAND[684,697]::BREWING_STAND->field_150382_bo
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[700,715]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/OBSIDIAN[743,751]::OBSIDIAN->field_150343_Z
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[758,773]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/DIAMOND_BLOCK[801,814]::DIAMOND_BLOCK->field_150484_ah
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[817,832]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/COAL_BLOCK[860,870]::COAL_BLOCK->field_150402_ci
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[876,891]::getDefaultState->func_176223_P
+Rename field net/minecraft/init/Blocks/REDSTONE_TORCH[944,958]::REDSTONE_TORCH->field_150429_aA
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[960,975]::getDefaultState->func_176223_P
+FOUND CONSTR method mymod/_10_MyXtra/StructureBlock2/StructureBlock2 ()V mymod/_10_MyXtra/StructureBlock2
+Rename field net/minecraft/block/material/Material/ROCK[1093,1097]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1119,1133]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[1146,1161]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/onBlockAdded (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V[2081,2093]::onBlockAdded->func_176213_c
+Rename method net/minecraft/world/World/setBlockState (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z[2364,2377]::setBlockState->func_175656_a
+Rename method net/minecraft/util/math/BlockPos/add (III)Lnet/minecraft/util/math/BlockPos;[2382,2385]::add->func_177982_a
+Import: java.util.ArrayList
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.BlockColored
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.item.EnumDyeColor
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+End  Processing: mymod/_10_MyXtra/StructureBlock2.java
+
+Start Processing: mymod/_10_MyXtra/SunBlock.java
+FOUND CONSTR method mymod/_10_MyXtra/SunBlock/SunBlock ()V mymod/_10_MyXtra/SunBlock
+Rename field net/minecraft/block/material/Material/ROCK[301,305]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[326,340]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[353,368]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[377,388]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[443,456]::setLightLevel->func_149715_a
+Import: mymod.Main
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemBlock
+End  Processing: mymod/_10_MyXtra/SunBlock.java
+
+Start Processing: mymod/_11_MyXtra2/CustomIngot3.java
+FOUND CONSTR method mymod/_11_MyXtra2/CustomIngot3/CustomIngot3 ()V mymod/_11_MyXtra2/CustomIngot3
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[195,209]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MATERIALS[221,230]::MATERIALS->field_78035_l
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+End  Processing: mymod/_11_MyXtra2/CustomIngot3.java
+
+Start Processing: mymod/_11_MyXtra2/CustomOre3.java
+FOUND CONSTR method mymod/_11_MyXtra2/CustomOre3/CustomOre3 ()V mymod/_11_MyXtra2/CustomOre3
+Rename field net/minecraft/block/material/Material/ROCK[528,532]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[553,567]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[580,595]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[604,615]::setHardness->func_149711_c
+Import: mymod.Main
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.Item
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: mymod/_11_MyXtra2/CustomOre3.java
+
+Start Processing: mymod/_11_MyXtra2/CustomPickaxe4.java
+FOUND CONSTR method mymod/_11_MyXtra2/CustomPickaxe4/CustomPickaxe4 ()V mymod/_11_MyXtra2/CustomPickaxe4
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[529,543]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[555,560]::TOOLS->field_78040_i
+Rename method net/minecraft/item/Item/canItemEditBlocks ()Z[574,591]::canItemEditBlocks->func_82788_x
+Import: mymod.Main
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.item.ItemPickaxe
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.world.World
+Import: net.minecraftforge.event.entity.player.PlayerEvent.HarvestCheck
+End  Processing: mymod/_11_MyXtra2/CustomPickaxe4.java
+

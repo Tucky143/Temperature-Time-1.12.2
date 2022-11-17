@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "s s",
+    "   "
+  ],
+  "key": {
+    "s": {
+    "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "foundations:my_Head2"
+  }
+}

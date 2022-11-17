@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " is",
+    "i d",
+    " il"
+    
+  ],
+  "key": {
+     "i": {
+        "item": "foundations:my_rod"
+     },
+     "s": {
+        "item": "foundations:my_ingot"
+     },
+"l": {
+        "item": "foundations:my_ingot2"
+     },
+"d": {
+        "item": "minecraft:string"
+     }
+    
+  },
+  "result": {
+    "item": "foundations:my_bow"
+    
+  }
+}

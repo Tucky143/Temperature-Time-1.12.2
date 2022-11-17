@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " s ",
+    " s ",
+    "sis"
+    
+  ],
+  "key": {
+     "i": {
+        "item": "foundations:my_rod"
+     },
+     "s": {
+        "item": "foundations:my_ingot3"
+     }
+    
+  },
+  "result": {
+    "item": "foundations:my_thermo"
+    
+  }
+}

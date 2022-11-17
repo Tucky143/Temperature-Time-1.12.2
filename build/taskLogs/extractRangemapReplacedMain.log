@@ -1,0 +1,223 @@
+Unsupposrted library path: C:\Users\jebod\Desktop\Codakid\CodaKid Mod Creation Essentials\projects\TemperatureMod2\build\classes\api
+Unsupposrted library path: C:\Users\jebod\Desktop\Codakid\CodaKid Mod Creation Essentials\projects\TemperatureMod2\build\resources\api
+Symbol range map extraction starting
+Processing 73 files
+startProcessing "mymod/CodakidFiles/BossModelBiped.java" md5: 456d1e3b5cdf712f0b21a5a814613ed4
+endProcessing "mymod/CodakidFiles/BossModelBiped.java"
+
+startProcessing "mymod/CodakidFiles/BossModelPig.java" md5: c8a8b725ebb32a91873359a20f63ee7b
+endProcessing "mymod/CodakidFiles/BossModelPig.java"
+
+startProcessing "mymod/CodakidFiles/BossModelWolf.java" md5: a652e7b6f3497ba89212a65d8d93148f
+endProcessing "mymod/CodakidFiles/BossModelWolf.java"
+
+startProcessing "mymod/CodakidFiles/CKWorldGenerater.java" md5: 925ae476e19dcfecc2f72087dd047dde
+endProcessing "mymod/CodakidFiles/CKWorldGenerater.java"
+
+startProcessing "mymod/CodakidFiles/ClientProxy.java" md5: e9061276c1a762b4bc51c83f3fac0795
+endProcessing "mymod/CodakidFiles/ClientProxy.java"
+
+startProcessing "mymod/CodakidFiles/Codakid.java" md5: 1ee1a6602359300a544a1dd4470c2700
+endProcessing "mymod/CodakidFiles/Codakid.java"
+
+startProcessing "mymod/CodakidFiles/RenderGrenadeBuild.java" md5: 924411b1cccdb899a9ca9b7f10de3073
+endProcessing "mymod/CodakidFiles/RenderGrenadeBuild.java"
+
+startProcessing "mymod/CodakidFiles/RenderGrenadeCluster.java" md5: b12f6cb268a29ec96661e20e1dc64a18
+endProcessing "mymod/CodakidFiles/RenderGrenadeCluster.java"
+
+startProcessing "mymod/CodakidFiles/RenderGrenadeClusterFragment.java" md5: ebc6484b8ddb17b28e44b862553834d6
+endProcessing "mymod/CodakidFiles/RenderGrenadeClusterFragment.java"
+
+startProcessing "mymod/CodakidFiles/RenderGrenadeCustom.java" md5: f61c4b7f2253d3838fc3b7167a1dca79
+endProcessing "mymod/CodakidFiles/RenderGrenadeCustom.java"
+
+startProcessing "mymod/CodakidFiles/RenderMonsterBiped.java" md5: 159a32d5329b8468bcaddedd9ad5870a
+endProcessing "mymod/CodakidFiles/RenderMonsterBiped.java"
+
+startProcessing "mymod/CodakidFiles/RenderMonsterBiped2.java" md5: 531b50126d71bbf0d359d4a89244bfc1
+endProcessing "mymod/CodakidFiles/RenderMonsterBiped2.java"
+
+startProcessing "mymod/CodakidFiles/RenderMonsterPig.java" md5: cdc1d79bdb12dd6504dd2a1e49094a46
+endProcessing "mymod/CodakidFiles/RenderMonsterPig.java"
+
+startProcessing "mymod/CodakidFiles/RenderMonsterWolf.java" md5: c1586b61c5def3154212e7c6f6d0674e
+endProcessing "mymod/CodakidFiles/RenderMonsterWolf.java"
+
+startProcessing "mymod/CodakidFiles/ServerProxy.java" md5: ce66ed9596f61b1070ccac63b7507897
+endProcessing "mymod/CodakidFiles/ServerProxy.java"
+
+startProcessing "mymod/CommonProxy.java" md5: cc83cf2ea51958ee336e2a6de139edf0
+endProcessing "mymod/CommonProxy.java"
+
+startProcessing "mymod/Main.java" md5: 6160c59b7c856863121c08df1e81c8e2
+endProcessing "mymod/Main.java"
+
+startProcessing "mymod/_01_ForgeYourSword/CustomBow.java" md5: cce095f2004083210bcc4fdfee23ed63
+endProcessing "mymod/_01_ForgeYourSword/CustomBow.java"
+
+startProcessing "mymod/_01_ForgeYourSword/CustomMonster.java" md5: de056d85ea8e022bdeaceaa19aca2739
+endProcessing "mymod/_01_ForgeYourSword/CustomMonster.java"
+
+startProcessing "mymod/_01_ForgeYourSword/CustomMonster2.java" md5: c4e6c369e22befb2806c1ce1ae92aacf
+endProcessing "mymod/_01_ForgeYourSword/CustomMonster2.java"
+
+startProcessing "mymod/_01_ForgeYourSword/CustomRod.java" md5: 47ac598d84d370be7c8ced14f05b1e93
+endProcessing "mymod/_01_ForgeYourSword/CustomRod.java"
+
+startProcessing "mymod/_01_ForgeYourSword/CustomShovel2.java" md5: ade878e1c124ad7f8e33ec7a5f3582a4
+endProcessing "mymod/_01_ForgeYourSword/CustomShovel2.java"
+
+startProcessing "mymod/_01_ForgeYourSword/CustomSword.java" md5: da9257afcf053d96090cc9fe9c0c8db2
+endProcessing "mymod/_01_ForgeYourSword/CustomSword.java"
+
+startProcessing "mymod/_01_ForgeYourSword/CustomSword2.java" md5: 737d599b1ae10df3a6cbef1acc5fcd2c
+endProcessing "mymod/_01_ForgeYourSword/CustomSword2.java"
+
+startProcessing "mymod/_02_PowerOre/CustomAxe.java" md5: 12e8d545fb6aa1edfc720193eba39ee0
+endProcessing "mymod/_02_PowerOre/CustomAxe.java"
+
+startProcessing "mymod/_02_PowerOre/CustomAxe2.java" md5: 89b56f0c36822e24192cdfa62376eca8
+endProcessing "mymod/_02_PowerOre/CustomAxe2.java"
+
+startProcessing "mymod/_02_PowerOre/CustomHoe.java" md5: 62f82053448349e05cff6812acccdba7
+endProcessing "mymod/_02_PowerOre/CustomHoe.java"
+
+startProcessing "mymod/_02_PowerOre/CustomIngot.java" md5: 9a828968eb37e1d243922b60b2ddf5c1
+endProcessing "mymod/_02_PowerOre/CustomIngot.java"
+
+startProcessing "mymod/_02_PowerOre/CustomOre.java" md5: 4074dcbc461c0173bfa063a551c31732
+endProcessing "mymod/_02_PowerOre/CustomOre.java"
+
+startProcessing "mymod/_02_PowerOre/CustomPickaxe.java" md5: 25f7a0a2fef237c5c7a4869ca348b50b
+endProcessing "mymod/_02_PowerOre/CustomPickaxe.java"
+
+startProcessing "mymod/_02_PowerOre/CustomPickaxe2.java" md5: d767d3600f7bd8caf26a23da86f4c64f
+endProcessing "mymod/_02_PowerOre/CustomPickaxe2.java"
+
+startProcessing "mymod/_02_PowerOre/CustomShovel.java" md5: 47c57d7687a9194c89169c0698f99f15
+endProcessing "mymod/_02_PowerOre/CustomShovel.java"
+
+startProcessing "mymod/_02_PowerOre/CustomThermo.java" md5: a92b8b3b17aa2001dd89d9c0ce46713b
+endProcessing "mymod/_02_PowerOre/CustomThermo.java"
+
+startProcessing "mymod/_02_PowerOre/CustomWorldGen.java" md5: 52926b6b7de99b0f2dcbe164bafe71f4
+endProcessing "mymod/_02_PowerOre/CustomWorldGen.java"
+
+startProcessing "mymod/_03_MagicArmor/CustomArmor.java" md5: 5b0c1f107d12c67dea833489c4819d89
+endProcessing "mymod/_03_MagicArmor/CustomArmor.java"
+
+startProcessing "mymod/_03_MagicArmor/CustomArmor2.java" md5: 8f0cea475e9ca947205edbc7599c7dc5
+endProcessing "mymod/_03_MagicArmor/CustomArmor2.java"
+
+startProcessing "mymod/_03_MagicArmor/CustomArmor3.java" md5: 737c167ef239e21a920c9a03f6ff76b3
+endProcessing "mymod/_03_MagicArmor/CustomArmor3.java"
+
+startProcessing "mymod/_03_MagicArmor/CustomBoots.java" md5: 8ffe5bac2a034a46d35b232f9d2c2e2a
+endProcessing "mymod/_03_MagicArmor/CustomBoots.java"
+
+startProcessing "mymod/_04_CreateACreature/CustomMob.java" md5: 9389a054e175f0a5dfb053e4d90f3887
+endProcessing "mymod/_04_CreateACreature/CustomMob.java"
+
+startProcessing "mymod/_04_CreateACreature/CustomMob2.java" md5: c774fcb26f4c796e1a9c43a8ea924132
+endProcessing "mymod/_04_CreateACreature/CustomMob2.java"
+
+startProcessing "mymod/_04_CreateACreature/CustomMob3.java" md5: e064fb538bdf2358d34df1ed7bee4dc6
+endProcessing "mymod/_04_CreateACreature/CustomMob3.java"
+
+startProcessing "mymod/_04_CreateACreature/RenderCustomMob.java" md5: 645a1616fe79763d430163fde138f6b4
+endProcessing "mymod/_04_CreateACreature/RenderCustomMob.java"
+
+startProcessing "mymod/_04_CreateACreature/RenderCustomMob2.java" md5: 79e3c49adc3f872686fa291772d96a03
+endProcessing "mymod/_04_CreateACreature/RenderCustomMob2.java"
+
+startProcessing "mymod/_04_CreateACreature/RenderCustomMob3.java" md5: 2683bd458da5fb20165834878a49f6f9
+endProcessing "mymod/_04_CreateACreature/RenderCustomMob3.java"
+
+startProcessing "mymod/_04_CreateACreature/myMob.java" md5: 113d6186b921ba0af82737de13da2b7a
+endProcessing "mymod/_04_CreateACreature/myMob.java"
+
+startProcessing "mymod/_04_CreateACreature/myMob2.java" md5: 1fc9aef59ac3f5eba09d4267d80cb642
+endProcessing "mymod/_04_CreateACreature/myMob2.java"
+
+startProcessing "mymod/_04_CreateACreature/myMob3.java" md5: c1083e2feaf62019edb70a0bc943804a
+endProcessing "mymod/_04_CreateACreature/myMob3.java"
+
+startProcessing "mymod/_05_LuckyBlock/LuckyBlock.java" md5: e0219b2a539afc5b46982ae4ccd4c23d
+endProcessing "mymod/_05_LuckyBlock/LuckyBlock.java"
+
+startProcessing "mymod/_06_BrandNewBiomes/CustomBiome.java" md5: 8682e3b7d8d33f79f87bedf46b940564
+endProcessing "mymod/_06_BrandNewBiomes/CustomBiome.java"
+
+startProcessing "mymod/_06_BrandNewBiomes/CustomBiome2.java" md5: ba12559fbd82ac0d81d5dca81e1ae25e
+endProcessing "mymod/_06_BrandNewBiomes/CustomBiome2.java"
+
+startProcessing "mymod/_06_BrandNewBiomes/CustomBiome3.java" md5: 3932bf47502f8354d7737993e314470e
+endProcessing "mymod/_06_BrandNewBiomes/CustomBiome3.java"
+
+startProcessing "mymod/_07_BuildAndBoom/EntityBuildGrenade.java" md5: d1094d2e018092633e67b0827c1f0fda
+endProcessing "mymod/_07_BuildAndBoom/EntityBuildGrenade.java"
+
+startProcessing "mymod/_07_BuildAndBoom/EntityClusterGrenade.java" md5: ca437c098039f9e44ead539634ac8ce3
+endProcessing "mymod/_07_BuildAndBoom/EntityClusterGrenade.java"
+
+startProcessing "mymod/_07_BuildAndBoom/EntityClusterGrenadeFragment.java" md5: 77f878d853ff97e33b23ac7cbef02018
+endProcessing "mymod/_07_BuildAndBoom/EntityClusterGrenadeFragment.java"
+
+startProcessing "mymod/_07_BuildAndBoom/EntityGrenade.java" md5: 5a620e20dadc27e1e40a5578c471d69e
+endProcessing "mymod/_07_BuildAndBoom/EntityGrenade.java"
+
+startProcessing "mymod/_08_HouseInABox/StructureBlock.java" md5: db964e50bf598bce20f9f9790618e09a
+endProcessing "mymod/_08_HouseInABox/StructureBlock.java"
+
+startProcessing "mymod/_09_EpicWeapons/CowGun.java" md5: 3a9f6b72d06b6e457a7ed44059b8cd74
+endProcessing "mymod/_09_EpicWeapons/CowGun.java"
+
+startProcessing "mymod/_09_EpicWeapons/EntityLavaTrail.java" md5: 275cf26f800e7ba6d906c16c7e3d790b
+endProcessing "mymod/_09_EpicWeapons/EntityLavaTrail.java"
+
+startProcessing "mymod/_09_EpicWeapons/LavaLauncher.java" md5: 9c3d13dabb9e61cea83cf6ba71e09754
+endProcessing "mymod/_09_EpicWeapons/LavaLauncher.java"
+
+startProcessing "mymod/_09_EpicWeapons/ThunderHammer.java" md5: 321600ca216529024223128f5e5a7ef4
+endProcessing "mymod/_09_EpicWeapons/ThunderHammer.java"
+
+startProcessing "mymod/_10_MyXtra/CustomAxe3.java" md5: 790631fafe3f01525be9a98963aa7595
+endProcessing "mymod/_10_MyXtra/CustomAxe3.java"
+
+startProcessing "mymod/_10_MyXtra/CustomIngot2.java" md5: 3a00d7d7bc2d32e161da9fa31c07b5e5
+endProcessing "mymod/_10_MyXtra/CustomIngot2.java"
+
+startProcessing "mymod/_10_MyXtra/CustomOre2.java" md5: 2d66bf1c6278c158c966ed5e470214d6
+endProcessing "mymod/_10_MyXtra/CustomOre2.java"
+
+startProcessing "mymod/_10_MyXtra/CustomPickaxe3.java" md5: 7f021dcef2ff77e12f8248066f1a7f11
+endProcessing "mymod/_10_MyXtra/CustomPickaxe3.java"
+
+startProcessing "mymod/_10_MyXtra/CustomShovel3.java" md5: e8910c5909754e6bf9a2bbe5bc94c379
+endProcessing "mymod/_10_MyXtra/CustomShovel3.java"
+
+startProcessing "mymod/_10_MyXtra/CustomSword3.java" md5: 0a8a3b64dcbcbb7942165149ed0bee85
+endProcessing "mymod/_10_MyXtra/CustomSword3.java"
+
+startProcessing "mymod/_10_MyXtra/CustomSword4.java" md5: aabf1baf6ece0f6ebc6b4cb6e0ac63be
+endProcessing "mymod/_10_MyXtra/CustomSword4.java"
+
+startProcessing "mymod/_10_MyXtra/FrozenBlock.java" md5: 6bb0cf4078406ee577a91580bfade123
+endProcessing "mymod/_10_MyXtra/FrozenBlock.java"
+
+startProcessing "mymod/_10_MyXtra/StructureBlock2.java" md5: 52db60aa4b0db16fb753182a2aa0b4c1
+endProcessing "mymod/_10_MyXtra/StructureBlock2.java"
+
+startProcessing "mymod/_10_MyXtra/SunBlock.java" md5: bf5d67fa0f72665d04d35fb1580bfd4e
+endProcessing "mymod/_10_MyXtra/SunBlock.java"
+
+startProcessing "mymod/_11_MyXtra2/CustomIngot3.java" md5: 702359be7fccac96cf2b7fb5bd6c863f
+endProcessing "mymod/_11_MyXtra2/CustomIngot3.java"
+
+startProcessing "mymod/_11_MyXtra2/CustomOre3.java" md5: cd7065ba22bd131599013db1bac46d32
+endProcessing "mymod/_11_MyXtra2/CustomOre3.java"
+
+startProcessing "mymod/_11_MyXtra2/CustomPickaxe4.java" md5: 2897f63d5ebbeaab699f4a1d863857d9
+endProcessing "mymod/_11_MyXtra2/CustomPickaxe4.java"
+
