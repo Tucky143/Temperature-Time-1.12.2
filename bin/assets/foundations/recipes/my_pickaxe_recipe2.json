@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    " s ",
+    " s "
+    
+  ],
+  "key": {
+     "o": {
+        "item": "minecraft:obsidian"
+     },
+     "s": {
+        "item": "foundations:my_rod"
+     }
+    
+  },
+  "result": {
+    "item": "foundations:my_pickaxe2"
+    
+  }
+}

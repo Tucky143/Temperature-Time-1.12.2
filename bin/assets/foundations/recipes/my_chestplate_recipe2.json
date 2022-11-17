@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "s s",
+    "sss",
+    "sss"
+  ],
+  "key": {
+    "s": {
+    "item": "foundations:my_Ingot2"
+    }
+  },
+  "result": {
+    "item": "foundations:my_Chestplate2"
+  }
+}

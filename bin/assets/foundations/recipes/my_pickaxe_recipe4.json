@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "oba",
+    " s ",
+    " s "
+    
+  ],
+  "key": {
+     "o": {
+        "item": "foundations:my_frozenblock"
+     },
+      "a": {
+        "item": "foundations:my_sunblock"
+     },
+      "s": {
+        "item": "foundations:my_rod"
+     },
+     "b": {
+        "item": "minecraft:obsidian"
+     }
+    
+  },
+  "result": {
+    "item": "foundations:my_pickaxe4"
+    
+  }
+}

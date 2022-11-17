@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "foundations:my_mob2",
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:obsidian",
+          "weight": 12
+        }
+      ]
+    }
+  ]
+}

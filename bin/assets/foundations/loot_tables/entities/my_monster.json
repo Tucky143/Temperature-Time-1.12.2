@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "name": "foundations:my_monster",
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

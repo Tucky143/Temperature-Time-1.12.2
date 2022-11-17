@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " i ",
+    "   "
+    
+  ],
+  "key": {
+     "i": {
+        "item": "foundations:my_frozenblock"
+     }
+    },
+    
+  "result": {
+    "item": "foundations:my_ingot2",
+    "count": 9
+    
+  }
+}

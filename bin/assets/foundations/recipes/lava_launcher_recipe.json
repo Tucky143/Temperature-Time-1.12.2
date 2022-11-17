@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  "   ",
+  "ww ",
+  " s "
+  ],
+  "key": {
+    "s":{
+      "item":"foundations:my_rod"
+    },
+    "w": {
+    "item":"minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item":"foundations:lava_launcher"
+  }
+}
