@@ -1,0 +1,235 @@
+[14:42:14] [main/INFO] [GradleStart]: Extra: []
+[14:42:14] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/jebod/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:42:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:42:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:42:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:42:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:42:15] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[14:42:15] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_191, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_191\jre
+[14:42:15] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[14:42:15] [main/ERROR] [FML]: Full: C:\Users\jebod\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[14:42:15] [main/ERROR] [FML]: Trimmed: c:/users/jebod/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[14:42:15] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[14:42:15] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[14:42:17] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[14:42:17] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[14:42:17] [main/INFO] [FML]: Searching C:\Users\jebod\Desktop\Codakid\CodaKid Mod Creation Essentials\projects\TemperatureMod2\run\.\mods for mods
+[14:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:42:17] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[14:42:17] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[14:42:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:42:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:42:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[14:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:42:20] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[14:42:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:42:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:42:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[14:42:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:42:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:42:20] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[14:42:21] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player532
+[14:42:27] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[14:42:27] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[14:42:28] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_191, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 820272720 bytes (782 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel' Version: '4.5.0 - Build 25.20.100.6518' Renderer: 'Intel(R) HD Graphics 520'
+[14:42:28] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[14:42:28] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:42:28] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[14:42:29] [main/INFO] [FML]: Searching C:\Users\jebod\Desktop\Codakid\CodaKid Mod Creation Essentials\projects\TemperatureMod2\run\.\mods for mods
+[14:42:31] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 109190500 nanos
+[14:42:31] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[14:42:31] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, foundations] at CLIENT
+[14:42:31] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, foundations] at SERVER
+[14:42:32] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Temperature Time
+[14:42:32] [main/WARN] [net.minecraft.client.resources.AbstractResourcePack]: ResourcePack: ignored non-lowercase namespace: TEMPLATES/ in C:\Users\jebod\Desktop\Codakid\CodaKid Mod Creation Essentials\projects\TemperatureMod2\bin
+[14:42:33] [main/INFO] [FML]: Processing ObjectHolder annotations
+[14:42:33] [main/INFO] [FML]: Found 1168 ObjectHolder annotations
+[14:42:33] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[14:42:33] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[14:42:33] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[14:42:33] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:42:33] [main/INFO] [FML]: Applying holder lookups
+[14:42:33] [main/INFO] [FML]: Holder lookups applied
+[14:42:33] [main/INFO] [FML]: Applying holder lookups
+[14:42:33] [main/INFO] [FML]: Holder lookups applied
+[14:42:33] [main/INFO] [FML]: Applying holder lookups
+[14:42:33] [main/INFO] [FML]: Holder lookups applied
+[14:42:33] [main/INFO] [FML]: Applying holder lookups
+[14:42:33] [main/INFO] [FML]: Holder lookups applied
+[14:42:33] [main/INFO] [FML]: Injecting itemstacks
+[14:42:33] [main/INFO] [FML]: Itemstack injection complete
+[14:42:35] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2859
+[14:42:40] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[14:42:41] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[14:42:41] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:42:41] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[14:42:41] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[14:42:51] [main/INFO] [FML]: Max texture size: 8192
+[14:42:52] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[14:42:55] [main/ERROR] [FML]: Parsing error loading recipe foundations:build_grenade_recipe
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_191]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[14:42:55] [main/ERROR] [FML]: Parsing error loading recipe foundations:cluster_grenade_recipe
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_191]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[14:42:55] [main/ERROR] [FML]: Parsing error loading recipe foundations:grenade_recipe
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_191]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[14:42:55] [main/ERROR] [FML]: Parsing error loading recipe foundations:structure_block_recipe
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_191]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[14:42:55] [main/INFO] [FML]: Applying holder lookups
+[14:42:55] [main/INFO] [FML]: Holder lookups applied
+[14:42:55] [main/INFO] [FML]: Injecting itemstacks
+[14:42:55] [main/INFO] [FML]: Itemstack injection complete
+[14:42:55] [main/WARN] [FML]: No types have been added to Biome foundations:my_biome3, types have been assigned on a best-effort guess: [FOREST, DENSE]
+[14:42:55] [main/WARN] [FML]: No types have been added to Biome foundations:my_biome2, types have been assigned on a best-effort guess: [FOREST, DENSE, SNOWY, COLD, CONIFEROUS]
+[14:42:55] [main/WARN] [FML]: No types have been added to Biome foundations:my_biome, types have been assigned on a best-effort guess: [FOREST, DENSE]
+[14:42:55] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[14:42:55] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[14:42:55] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[14:42:56] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[14:43:02] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[14:43:02] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[14:43:02] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[14:43:03] [Server thread/INFO] [FML]: Applying holder lookups
+[14:43:03] [Server thread/INFO] [FML]: Holder lookups applied
+[14:43:03] [Server thread/INFO] [FML]: Loading dimension 0 (Test) (net.minecraft.server.integrated.IntegratedServer@52b2c6f)
+[14:43:04] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[14:43:04] [Server thread/INFO] [FML]: Loading dimension -1 (Test) (net.minecraft.server.integrated.IntegratedServer@52b2c6f)
+[14:43:04] [Server thread/INFO] [FML]: Loading dimension 1 (Test) (net.minecraft.server.integrated.IntegratedServer@52b2c6f)
+[14:43:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[14:43:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 10%
+[14:43:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[14:43:07] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:43:07] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:43:07] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 5, from 10
+[14:43:10] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[14:43:10] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[14:43:10] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,foundations@1.0,mcp@9.42
+[14:43:10] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[14:43:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:43:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player532[local:E:c49eedea] logged in with entity id 501 at (115.67661946319129, 82.36813569728037, 244.08337351444771)
+[14:43:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player532 joined the game
+[14:43:12] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[14:43:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Test'/overworld
+[14:44:45] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[14:44:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Test'/overworld
+[14:44:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[14:44:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[14:44:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player532 lost connection: Disconnected
+[14:44:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player532 left the game
+[14:44:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[14:44:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[14:44:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Test'/overworld
+[14:44:46] [Server thread/INFO] [FML]: Unloading dimension 0
+[14:44:47] [Server thread/INFO] [FML]: Applying holder lookups
+[14:44:47] [Server thread/INFO] [FML]: Holder lookups applied
+[14:44:50] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[14:44:50] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[14:44:50] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
